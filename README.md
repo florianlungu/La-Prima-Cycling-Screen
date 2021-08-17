@@ -90,11 +90,10 @@ How to Install & Update Connect IQ apps – https://forums.garmin.com/developer/co
 Explanation of terms and training zones – https://forums.garmin.com/developer/connect-iq/f/showcase/170106/la-prima-cycling-screen
 
 The app is named in thanks to the sponsor of my local amateur cycling team – La Prima Espresso Coffee https://www.laprima.com
- 
 
 ##Permissions
 This app requires access to:
-• Run in the background when it is not active (potentially affecting battery life)
-• Sensor data (i.e., ANT+, heart rate, compass)
-• Your Garmin Connect™ fitness profile
+â€¢ Run in the background when it is not active (potentially affecting battery life)
+â€¢ Sensor data (i.e., ANT+, heart rate, compass)
+â€¢ Your Garmin Connectâ„¢ fitness profile
 
