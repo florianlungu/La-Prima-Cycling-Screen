@@ -2,7 +2,8 @@
 
 Free app download from Garmin Connect IQ Store [La Prima Cycling Screen](https://apps.garmin.com/en-US/apps/f8fd2940-8d24-4bb8-ac50-f809dc520a58)
 
-##Description
+## Description
+
 Clean modern screen design for training and racing with power and heart rate. The most critical information is easier to read with a bigger font and more spacing. The smaller field labels have been replaced with additional cycling metrics so up to 18 data fields are shown instead of the default maximum of 10.
 
 ––––––––––––––––––––––––––––––––––––––––––––––
@@ -91,9 +92,13 @@ Explanation of terms and training zones – https://forums.garmin.com/developer/co
 
 The app is named in thanks to the sponsor of my local amateur cycling team – La Prima Espresso Coffee https://www.laprima.com
 
-##Permissions
+## Permissions
+
 This app requires access to:
-â€¢ Run in the background when it is not active (potentially affecting battery life)
-â€¢ Sensor data (i.e., ANT+, heart rate, compass)
-â€¢ Your Garmin Connectâ„¢ fitness profile
+
+• Run in the background when it is not active (potentially affecting battery life)
+
+• Sensor data (i.e., ANT+, heart rate, compass)
+
+• Your Garmin Connectâ„¢ fitness profile
 
