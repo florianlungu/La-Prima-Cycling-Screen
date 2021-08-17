@@ -1,0 +1,186 @@
+<resources>
+<properties>
+<property id="ThesholdPower" type="number">250</property>
+<property id="IRideWith" type="number">0</property>
+<property id="PowerDisplay" type="number">0</property>
+<property id="Fld1" type="number">0</property>
+<property id="Fld2" type="number">20</property>
+<property id="Fld3" type="number">1</property>
+<property id="Fld4" type="number">32</property>
+<property id="ScrDisplay" type="number">0</property>
+<property id="TimeDisplay" type="number">0</property>
+</properties>
+<strings>
+<string id="TPwrT">ขีด จำกัด การทำงาน (FTP) เป็นวัตต์</string>
+<string id="PwrT">จอแสดงผลพลังงาน</string>
+<string id="Instant">พลังงานทันที</string>
+<string id="ThreeSecondAvg">3 วินาที</string>
+<string id="TenSecondAvg">พลังงาน 10 วินาที</string>
+<string id="ThirtySecondAvg">พลังงาน 30 วินาที</string>
+<string id="AvgPower">พลังงานเฉลี่ย</string>
+<string id="WattsKg">กำลังไฟเป็นวัตต์ / กิโลกรัม</string>
+<string id="Calories">แคลอรี่ (kcal)</string>
+<string id="Work">งาน (kJ)</string>
+<string id="CurrentElevation">ระดับความสูงปัจจุบัน</string>
+<string id="TimeDisplayT">แสดงเวลา</string>
+<string id="ElapsedTime">เวลาที่ผ่านไป</string>
+<string id="MovingTime">เวลาเคลื่อนไหว</string>
+<string id="TotalAscent">รวมขึ้น</string>
+<string id="Scr">สีของหน้าจอ</string>
+<string id="ScrPink2">สีชมพูเข้ม</string>
+<string id="ScrBlue">Garmin สีน้ำเงิน</string>
+<string id="ScrPink">Giro pink</string>
+<string id="ScrGreen">ลอมบาร์เดียสีเขียว</string>
+<string id="ScrRed2">Maranello แดง</string>
+<string id="ScrPurple">มิลานสีม่วง</string>
+<string id="ScrGreen2">เขียวชอุ่ม</string>
+<string id="ScrBlack">Roubaix ดำ</string>
+<string id="ScrBlue2">Torino สีน้ำเงิน</string>
+<string id="ScrYellow">ทัวร์เหลือง</string>
+<string id="ScrRed">วูเอลตาแดง</string>
+<string id="ScrOrange">Zwift ส้ม</string>
+<string id="Intensity_NZPower">NP และความเข้ม</string>
+<string id="NZPower_10sPower">พลังงาน NP และ 10 วินาที</string>
+<string id="TrainingLoad_10sPower">TSS และกำลังไฟ 10 วินาที</string>
+<string id="TrainingLoad_NZPower">TSS และ NP</string>
+<string id="IRideWithT">ฉันนั่งกับ</string>
+<string id="PwrHRAuto">ตรวจจับพลังงานและทรัพยากรบุคคลโดยอัตโนมัติ</string>
+<string id="PwrHR">ทั้งกำลังและอัตราการเต้นของหัวใจ</string>
+<string id="PwrOnly">มิเตอร์ไฟฟ้าเท่านั้น</string>
+<string id="HROnly">เครื่องวัดอัตราการเต้นของหัวใจเท่านั้น</string>
+<string id="NZPower_ASpeed">NP และความเร็วเฉลี่ย</string>
+<string id="Fld1T">ฟิลด์ตัวเลือก 1</string>
+<string id="Fld2T">ฟิลด์ตัวเลือก 2</string>
+<string id="Fld3T">ฟิลด์ตัวเลือก 3</string>
+<string id="Fld4T">ฟิลด์ตัวเลือก 4</string>
+<string id="PwrZone">โซนพลังงานและขีดแบ่งเปอร์เซ็นต์</string>
+<string id="HrZoneLT">โซนทรัพยากรบุคคลและร้อยละ LT</string>
+<string id="HrZoneMax">โซนทรัพยากรบุคคลและร้อยละสูงสุดทรัพยากรบุคคล</string>
+<string id="AvgHrLT">ค่าเฉลี่ย HR และเปอร์เซ็นต์ LT</string>
+</strings>
+<settings>
+<setting propertyKey="@Properties.ThesholdPower" title="@Strings.TPwrT">
+<settingConfig type="numeric" />
+</setting>
+<setting propertyKey="@Properties.IRideWith" title="@Strings.IRideWithT">
+<settingConfig type="list">
+<listEntry value="0">@Strings.PwrHRAuto</listEntry>
+<listEntry value="1">@Strings.PwrHR</listEntry>
+<listEntry value="2">@Strings.PwrOnly</listEntry>
+<listEntry value="3">@Strings.HROnly</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.PowerDisplay" title="@Strings.PwrT">
+<settingConfig type="list">
+<listEntry value="0">@Strings.Instant</listEntry>
+<listEntry value="1">@Strings.ThreeSecondAvg</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.Fld1" title="@Strings.Fld1T">
+<settingConfig type="list">
+<listEntry value="0">@Strings.PwrZone</listEntry>
+<listEntry value="1">@Strings.TenSecondAvg</listEntry>
+<listEntry value="2">@Strings.ThirtySecondAvg</listEntry>
+<listEntry value="3">@Strings.AvgPower</listEntry>
+<listEntry value="4">@Strings.NZPower_10sPower</listEntry>
+<listEntry value="5">@Strings.NZPower_ASpeed</listEntry>
+<listEntry value="6">@Strings.Intensity_NZPower</listEntry>
+<listEntry value="7">@Strings.TrainingLoad_10sPower</listEntry>
+<listEntry value="8">@Strings.TrainingLoad_NZPower</listEntry>
+<listEntry value="9">@Strings.WattsKg</listEntry>
+<listEntry value="10">@Strings.Work</listEntry>
+<listEntry value="20">@Strings.HrZoneLT</listEntry>
+<listEntry value="21">@Strings.HrZoneMax</listEntry>
+<listEntry value="22">@Strings.AvgHrLT</listEntry>
+<listEntry value="23">@Strings.Calories</listEntry>
+<listEntry value="31">@Strings.CurrentElevation</listEntry>
+<listEntry value="32">@Strings.TotalAscent</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.Fld2" title="@Strings.Fld2T">
+<settingConfig type="list">
+<listEntry value="0">@Strings.PwrZone</listEntry>
+<listEntry value="1">@Strings.TenSecondAvg</listEntry>
+<listEntry value="2">@Strings.ThirtySecondAvg</listEntry>
+<listEntry value="3">@Strings.AvgPower</listEntry>
+<listEntry value="4">@Strings.NZPower_10sPower</listEntry>
+<listEntry value="5">@Strings.NZPower_ASpeed</listEntry>
+<listEntry value="6">@Strings.Intensity_NZPower</listEntry>
+<listEntry value="7">@Strings.TrainingLoad_10sPower</listEntry>
+<listEntry value="8">@Strings.TrainingLoad_NZPower</listEntry>
+<listEntry value="9">@Strings.WattsKg</listEntry>
+<listEntry value="10">@Strings.Work</listEntry>
+<listEntry value="20">@Strings.HrZoneLT</listEntry>
+<listEntry value="21">@Strings.HrZoneMax</listEntry>
+<listEntry value="22">@Strings.AvgHrLT</listEntry>
+<listEntry value="23">@Strings.Calories</listEntry>
+<listEntry value="31">@Strings.CurrentElevation</listEntry>
+<listEntry value="32">@Strings.TotalAscent</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.Fld3" title="@Strings.Fld3T">
+<settingConfig type="list">
+<listEntry value="0">@Strings.PwrZone</listEntry>
+<listEntry value="1">@Strings.TenSecondAvg</listEntry>
+<listEntry value="2">@Strings.ThirtySecondAvg</listEntry>
+<listEntry value="3">@Strings.AvgPower</listEntry>
+<listEntry value="4">@Strings.NZPower_10sPower</listEntry>
+<listEntry value="5">@Strings.NZPower_ASpeed</listEntry>
+<listEntry value="6">@Strings.Intensity_NZPower</listEntry>
+<listEntry value="7">@Strings.TrainingLoad_10sPower</listEntry>
+<listEntry value="8">@Strings.TrainingLoad_NZPower</listEntry>
+<listEntry value="9">@Strings.WattsKg</listEntry>
+<listEntry value="10">@Strings.Work</listEntry>
+<listEntry value="20">@Strings.HrZoneLT</listEntry>
+<listEntry value="21">@Strings.HrZoneMax</listEntry>
+<listEntry value="22">@Strings.AvgHrLT</listEntry>
+<listEntry value="23">@Strings.Calories</listEntry>
+<listEntry value="31">@Strings.CurrentElevation</listEntry>
+<listEntry value="32">@Strings.TotalAscent</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.Fld4" title="@Strings.Fld4T">
+<settingConfig type="list">
+<listEntry value="0">@Strings.PwrZone</listEntry>
+<listEntry value="1">@Strings.TenSecondAvg</listEntry>
+<listEntry value="2">@Strings.ThirtySecondAvg</listEntry>
+<listEntry value="3">@Strings.AvgPower</listEntry>
+<listEntry value="4">@Strings.NZPower_10sPower</listEntry>
+<listEntry value="5">@Strings.NZPower_ASpeed</listEntry>
+<listEntry value="6">@Strings.Intensity_NZPower</listEntry>
+<listEntry value="7">@Strings.TrainingLoad_10sPower</listEntry>
+<listEntry value="8">@Strings.TrainingLoad_NZPower</listEntry>
+<listEntry value="9">@Strings.WattsKg</listEntry>
+<listEntry value="10">@Strings.Work</listEntry>
+<listEntry value="20">@Strings.HrZoneLT</listEntry>
+<listEntry value="21">@Strings.HrZoneMax</listEntry>
+<listEntry value="22">@Strings.AvgHrLT</listEntry>
+<listEntry value="23">@Strings.Calories</listEntry>
+<listEntry value="31">@Strings.CurrentElevation</listEntry>
+<listEntry value="32">@Strings.TotalAscent</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.TimeDisplay" title="@Strings.TimeDisplayT">
+<settingConfig type="list">
+<listEntry value="1">@Strings.ElapsedTime</listEntry>
+<listEntry value="0">@Strings.MovingTime</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.ScrDisplay" title="@Strings.Scr">
+<settingConfig type="list">
+<listEntry value="7">@Strings.ScrPink2</listEntry>
+<listEntry value="0">@Strings.ScrBlue</listEntry>
+<listEntry value="3">@Strings.ScrPink</listEntry>
+<listEntry value="1">@Strings.ScrGreen</listEntry>
+<listEntry value="11">@Strings.ScrRed2</listEntry>
+<listEntry value="4">@Strings.ScrPurple</listEntry>
+<listEntry value="9">@Strings.ScrGreen2</listEntry>
+<listEntry value="10">@Strings.ScrBlack</listEntry>
+<listEntry value="8">@Strings.ScrBlue2</listEntry>
+<listEntry value="6">@Strings.ScrYellow</listEntry>
+<listEntry value="5">@Strings.ScrRed</listEntry>
+<listEntry value="2">@Strings.ScrOrange</listEntry>
+</settingConfig>
+</setting>
+</settings>
+</resources>
