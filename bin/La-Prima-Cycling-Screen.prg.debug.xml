@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Home\Documents\Projects\Garmin\La Prima Cycling Screen\Source Code\La-Prima-Cycling-Screen\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="1" lineNum="11" parent="globals/LaPrimaApp" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="1" lineNum="12" parent="globals/LaPrimaApp" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="2" lineNum="15" parent="globals/LaPrimaApp" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="3" lineNum="18" parent="globals/LaPrimaApp" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="4" lineNum="21" parent="globals/LaPrimaApp" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="4" lineNum="22" parent="globals/LaPrimaApp" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="4" lineNum="23" parent="globals/LaPrimaApp" pc="268435516" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="4" lineNum="25" parent="globals/LaPrimaApp" pc="268435566" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="5" lineNum="28" parent="globals/LaPrimaApp" pc="268435604" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="5" lineNum="29" parent="globals/LaPrimaApp" pc="268435608" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="6" lineNum="32" parent="globals/LaPrimaApp" pc="268435619" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="6" lineNum="33" parent="globals/LaPrimaApp" pc="268435623" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="7" lineNum="38" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435661" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="7" lineNum="39" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435665" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="8" lineNum="42" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435688" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="8" lineNum="43" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435692" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="8" lineNum="44" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435711" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="9" lineNum="37" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435756" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="9" lineNum="37" parent="globals/LaPrimaApp/TempBgServiceDelegate" pc="268435756" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="10" lineNum="9" parent="globals/LaPrimaApp" pc="268435737" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaApp.mc" id="10" lineNum="9" parent="globals/LaPrimaApp" pc="268435737" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="12" lineNum="10" parent="globals/LaPrimaView" pc="268435775" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="12" lineNum="11" parent="globals/LaPrimaView" pc="268435779" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="12" lineNum="12" parent="globals/LaPrimaView" pc="268435797" symbol="initialize"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="13" lineNum="15" parent="globals/LaPrimaView" pc="268435828" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="14" lineNum="18" parent="globals/LaPrimaView" pc="268435833" symbol="onShow"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="15" lineNum="21" parent="globals/LaPrimaView" pc="268435838" symbol="onHide"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="24" parent="globals/LaPrimaView" pc="268435843" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="25" parent="globals/LaPrimaView" pc="268435847" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="26" parent="globals/LaPrimaView" pc="268435866" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="27" parent="globals/LaPrimaView" pc="268436121" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="27" parent="globals/LaPrimaView" pc="268436147" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="28" parent="globals/LaPrimaView" pc="268436150" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="28" parent="globals/LaPrimaView" pc="268436169" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="29" parent="globals/LaPrimaView" pc="268436172" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="29" parent="globals/LaPrimaView" pc="268436191" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="30" parent="globals/LaPrimaView" pc="268436194" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="30" parent="globals/LaPrimaView" pc="268436213" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="31" parent="globals/LaPrimaView" pc="268436216" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="31" parent="globals/LaPrimaView" pc="268436235" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="32" parent="globals/LaPrimaView" pc="268436238" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="32" parent="globals/LaPrimaView" pc="268436257" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="33" parent="globals/LaPrimaView" pc="268436260" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="33" parent="globals/LaPrimaView" pc="268436279" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="34" parent="globals/LaPrimaView" pc="268436282" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="34" parent="globals/LaPrimaView" pc="268436301" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="35" parent="globals/LaPrimaView" pc="268436304" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="35" parent="globals/LaPrimaView" pc="268436323" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="36" parent="globals/LaPrimaView" pc="268436326" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="36" parent="globals/LaPrimaView" pc="268436345" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="37" parent="globals/LaPrimaView" pc="268436348" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="37" parent="globals/LaPrimaView" pc="268436367" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="38" parent="globals/LaPrimaView" pc="268436370" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="38" parent="globals/LaPrimaView" pc="268436389" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="41" parent="globals/LaPrimaView" pc="268436395" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="42" parent="globals/LaPrimaView" pc="268436415" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="44" parent="globals/LaPrimaView" pc="268436437" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="47" parent="globals/LaPrimaView" pc="268436456" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="48" parent="globals/LaPrimaView" pc="268436476" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="49" parent="globals/LaPrimaView" pc="268436529" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="50" parent="globals/LaPrimaView" pc="268436549" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="51" parent="globals/LaPrimaView" pc="268436602" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="52" parent="globals/LaPrimaView" pc="268436622" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="16" lineNum="54" parent="globals/LaPrimaView" pc="268436675" symbol="drawLayout"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="58" parent="globals/LaPrimaView" pc="268436726" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="59" parent="globals/LaPrimaView" pc="268436730" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="60" parent="globals/LaPrimaView" pc="268436749" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="61" parent="globals/LaPrimaView" pc="268436787" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="62" parent="globals/LaPrimaView" pc="268436825" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="63" parent="globals/LaPrimaView" pc="268436857" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="64" parent="globals/LaPrimaView" pc="268436895" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="65" parent="globals/LaPrimaView" pc="268436906" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="67" parent="globals/LaPrimaView" pc="268436947" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="68" parent="globals/LaPrimaView" pc="268436958" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="70" parent="globals/LaPrimaView" pc="268436999" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="71" parent="globals/LaPrimaView" pc="268437010" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="73" parent="globals/LaPrimaView" pc="268437045" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="17" lineNum="74" parent="globals/LaPrimaView" pc="268437056" symbol="drawGPS"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="78" parent="globals/LaPrimaView" pc="268437098" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="79" parent="globals/LaPrimaView" pc="268437102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="80" parent="globals/LaPrimaView" pc="268437109" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="81" parent="globals/LaPrimaView" pc="268437116" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="82" parent="globals/LaPrimaView" pc="268437123" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="83" parent="globals/LaPrimaView" pc="268437130" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="84" parent="globals/LaPrimaView" pc="268437137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="85" parent="globals/LaPrimaView" pc="268437144" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="86" parent="globals/LaPrimaView" pc="268437151" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="87" parent="globals/LaPrimaView" pc="268437158" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="88" parent="globals/LaPrimaView" pc="268437165" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="89" parent="globals/LaPrimaView" pc="268437172" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="90" parent="globals/LaPrimaView" pc="268437179" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="91" parent="globals/LaPrimaView" pc="268437186" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="92" parent="globals/LaPrimaView" pc="268437193" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="93" parent="globals/LaPrimaView" pc="268437200" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="94" parent="globals/LaPrimaView" pc="268437207" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="95" parent="globals/LaPrimaView" pc="268437214" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="96" parent="globals/LaPrimaView" pc="268437221" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="98" parent="globals/LaPrimaView" pc="268437228" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="99" parent="globals/LaPrimaView" pc="268437248" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="101" parent="globals/LaPrimaView" pc="268437258" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="104" parent="globals/LaPrimaView" pc="268437265" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="105" parent="globals/LaPrimaView" pc="268437285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="106" parent="globals/LaPrimaView" pc="268437304" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="107" parent="globals/LaPrimaView" pc="268437323" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="108" parent="globals/LaPrimaView" pc="268437342" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="109" parent="globals/LaPrimaView" pc="268437361" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="110" parent="globals/LaPrimaView" pc="268437380" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="111" parent="globals/LaPrimaView" pc="268437399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="112" parent="globals/LaPrimaView" pc="268437418" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="113" parent="globals/LaPrimaView" pc="268437425" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="114" parent="globals/LaPrimaView" pc="268437432" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="115" parent="globals/LaPrimaView" pc="268437439" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="116" parent="globals/LaPrimaView" pc="268437446" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="117" parent="globals/LaPrimaView" pc="268437456" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="118" parent="globals/LaPrimaView" pc="268437476" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="119" parent="globals/LaPrimaView" pc="268437495" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="120" parent="globals/LaPrimaView" pc="268437514" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="121" parent="globals/LaPrimaView" pc="268437533" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="122" parent="globals/LaPrimaView" pc="268437552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="123" parent="globals/LaPrimaView" pc="268437571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="124" parent="globals/LaPrimaView" pc="268437590" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="125" parent="globals/LaPrimaView" pc="268437609" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="126" parent="globals/LaPrimaView" pc="268437616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="127" parent="globals/LaPrimaView" pc="268437623" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="128" parent="globals/LaPrimaView" pc="268437633" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="129" parent="globals/LaPrimaView" pc="268437653" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="130" parent="globals/LaPrimaView" pc="268437672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="131" parent="globals/LaPrimaView" pc="268437691" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="132" parent="globals/LaPrimaView" pc="268437710" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="133" parent="globals/LaPrimaView" pc="268437729" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="134" parent="globals/LaPrimaView" pc="268437748" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="135" parent="globals/LaPrimaView" pc="268437767" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="136" parent="globals/LaPrimaView" pc="268437786" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="137" parent="globals/LaPrimaView" pc="268437793" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="138" parent="globals/LaPrimaView" pc="268437800" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="139" parent="globals/LaPrimaView" pc="268437807" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="141" parent="globals/LaPrimaView" pc="268437817" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="142" parent="globals/LaPrimaView" pc="268437836" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="143" parent="globals/LaPrimaView" pc="268437855" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="144" parent="globals/LaPrimaView" pc="268437874" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="145" parent="globals/LaPrimaView" pc="268437893" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="146" parent="globals/LaPrimaView" pc="268437912" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="147" parent="globals/LaPrimaView" pc="268437931" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="150" parent="globals/LaPrimaView" pc="268437950" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="151" parent="globals/LaPrimaView" pc="268438006" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="152" parent="globals/LaPrimaView" pc="268438025" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="153" parent="globals/LaPrimaView" pc="268438048" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="155" parent="globals/LaPrimaView" pc="268438112" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="157" parent="globals/LaPrimaView" pc="268438168" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="158" parent="globals/LaPrimaView" pc="268438211" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="159" parent="globals/LaPrimaView" pc="268438234" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="161" parent="globals/LaPrimaView" pc="268438298" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="164" parent="globals/LaPrimaView" pc="268438354" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="165" parent="globals/LaPrimaView" pc="268438358" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="166" parent="globals/LaPrimaView" pc="268438383" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="167" parent="globals/LaPrimaView" pc="268438402" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="168" parent="globals/LaPrimaView" pc="268438427" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="169" parent="globals/LaPrimaView" pc="268438443" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="171" parent="globals/LaPrimaView" pc="268438480" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="172" parent="globals/LaPrimaView" pc="268438499" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="173" parent="globals/LaPrimaView" pc="268438555" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="174" parent="globals/LaPrimaView" pc="268438598" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="175" parent="globals/LaPrimaView" pc="268438621" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="176" parent="globals/LaPrimaView" pc="268438685" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="177" parent="globals/LaPrimaView" pc="268438708" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="179" parent="globals/LaPrimaView" pc="268438772" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="182" parent="globals/LaPrimaView" pc="268438833" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="183" parent="globals/LaPrimaView" pc="268438855" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="185" parent="globals/LaPrimaView" pc="268438868" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="186" parent="globals/LaPrimaView" pc="268438887" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="188" parent="globals/LaPrimaView" pc="268438899" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="189" parent="globals/LaPrimaView" pc="268438982" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="190" parent="globals/LaPrimaView" pc="268439028" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="191" parent="globals/LaPrimaView" pc="268439065" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="193" parent="globals/LaPrimaView" pc="268439102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="194" parent="globals/LaPrimaView" pc="268439125" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="195" parent="globals/LaPrimaView" pc="268439176" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="196" parent="globals/LaPrimaView" pc="268439216" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="197" parent="globals/LaPrimaView" pc="268439253" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="199" parent="globals/LaPrimaView" pc="268439293" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="200" parent="globals/LaPrimaView" pc="268439339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="202" parent="globals/LaPrimaView" pc="268439376" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="203" parent="globals/LaPrimaView" pc="268439399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="204" parent="globals/LaPrimaView" pc="268439450" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="206" parent="globals/LaPrimaView" pc="268439490" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="207" parent="globals/LaPrimaView" pc="268439536" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="208" parent="globals/LaPrimaView" pc="268439567" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="209" parent="globals/LaPrimaView" pc="268439604" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="212" parent="globals/LaPrimaView" pc="268439641" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="213" parent="globals/LaPrimaView" pc="268439673" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="215" parent="globals/LaPrimaView" pc="268439713" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="216" parent="globals/LaPrimaView" pc="268439750" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="218" parent="globals/LaPrimaView" pc="268439787" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="219" parent="globals/LaPrimaView" pc="268439819" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="221" parent="globals/LaPrimaView" pc="268439859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="222" parent="globals/LaPrimaView" pc="268439896" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="224" parent="globals/LaPrimaView" pc="268439933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="225" parent="globals/LaPrimaView" pc="268439965" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="227" parent="globals/LaPrimaView" pc="268440005" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="228" parent="globals/LaPrimaView" pc="268440042" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="230" parent="globals/LaPrimaView" pc="268440079" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="231" parent="globals/LaPrimaView" pc="268440111" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="233" parent="globals/LaPrimaView" pc="268440151" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="234" parent="globals/LaPrimaView" pc="268440188" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="237" parent="globals/LaPrimaView" pc="268440225" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="238" parent="globals/LaPrimaView" pc="268440271" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="239" parent="globals/LaPrimaView" pc="268440302" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="240" parent="globals/LaPrimaView" pc="268440339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="242" parent="globals/LaPrimaView" pc="268440376" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="243" parent="globals/LaPrimaView" pc="268440399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="244" parent="globals/LaPrimaView" pc="268440459" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="245" parent="globals/LaPrimaView" pc="268440482" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="247" parent="globals/LaPrimaView" pc="268440536" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="249" parent="globals/LaPrimaView" pc="268440587" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="250" parent="globals/LaPrimaView" pc="268440633" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="251" parent="globals/LaPrimaView" pc="268440670" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="253" parent="globals/LaPrimaView" pc="268440719" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="256" parent="globals/LaPrimaView" pc="268440771" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="258" parent="globals/LaPrimaView" pc="268440787" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="259" parent="globals/LaPrimaView" pc="268440806" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="261" parent="globals/LaPrimaView" pc="268441042" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="262" parent="globals/LaPrimaView" pc="268441049" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="268" parent="globals/LaPrimaView" pc="268441052" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="269" parent="globals/LaPrimaView" pc="268441059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="275" parent="globals/LaPrimaView" pc="268441062" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="276" parent="globals/LaPrimaView" pc="268441069" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="279" parent="globals/LaPrimaView" pc="268441075" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="280" parent="globals/LaPrimaView" pc="268441094" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="282" parent="globals/LaPrimaView" pc="268441183" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="283" parent="globals/LaPrimaView" pc="268441220" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="284" parent="globals/LaPrimaView" pc="268441309" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="285" parent="globals/LaPrimaView" pc="268441367" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="287" parent="globals/LaPrimaView" pc="268441462" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="288" parent="globals/LaPrimaView" pc="268441481" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="289" parent="globals/LaPrimaView" pc="268441516" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="290" parent="globals/LaPrimaView" pc="268441557" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="291" parent="globals/LaPrimaView" pc="268441598" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="292" parent="globals/LaPrimaView" pc="268441636" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="293" parent="globals/LaPrimaView" pc="268441680" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="294" parent="globals/LaPrimaView" pc="268441730" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="295" parent="globals/LaPrimaView" pc="268441780" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="18" lineNum="296" parent="globals/LaPrimaView" pc="268441815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="19" lineNum="299" parent="globals/LaPrimaView" pc="268441819" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="19" lineNum="300" parent="globals/LaPrimaView" pc="268441823" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="19" lineNum="301" parent="globals/LaPrimaView" pc="268441843" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="20" lineNum="304" parent="globals/LaPrimaView" pc="268441850" symbol="textL"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="20" lineNum="305" parent="globals/LaPrimaView" pc="268441854" symbol="textL"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="20" lineNum="306" parent="globals/LaPrimaView" pc="268441861" symbol="textL"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="21" lineNum="310" parent="globals/LaPrimaView" pc="268441897" symbol="textC"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="21" lineNum="311" parent="globals/LaPrimaView" pc="268441901" symbol="textC"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="21" lineNum="312" parent="globals/LaPrimaView" pc="268441908" symbol="textC"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="22" lineNum="316" parent="globals/LaPrimaView" pc="268441944" symbol="textR"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="22" lineNum="317" parent="globals/LaPrimaView" pc="268441948" symbol="textR"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="22" lineNum="318" parent="globals/LaPrimaView" pc="268441955" symbol="textR"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="23" lineNum="6" parent="globals/LaPrimaView" pc="268450768" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaView.mc" id="23" lineNum="6" parent="globals/LaPrimaView" pc="268450768" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="84" parent="globals/LaPrimaFields" pc="268441991" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="85" parent="globals/LaPrimaFields" pc="268441995" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="86" parent="globals/LaPrimaFields" pc="268442005" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="87" parent="globals/LaPrimaFields" pc="268442005" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="88" parent="globals/LaPrimaFields" pc="268442030" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="89" parent="globals/LaPrimaFields" pc="268442041" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="90" parent="globals/LaPrimaFields" pc="268442054" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="91" parent="globals/LaPrimaFields" pc="268442065" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="93" parent="globals/LaPrimaFields" pc="268442078" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="95" parent="globals/LaPrimaFields" pc="268442085" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="25" lineNum="97" parent="globals/LaPrimaFields" pc="268442109" symbol="fmtTime"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="100" parent="globals/LaPrimaFields" pc="268442148" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="101" parent="globals/LaPrimaFields" pc="268442152" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="102" parent="globals/LaPrimaFields" pc="268442152" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="103" parent="globals/LaPrimaFields" pc="268442189" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="105" parent="globals/LaPrimaFields" pc="268442196" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="26" lineNum="107" parent="globals/LaPrimaFields" pc="268442218" symbol="fmtTemperature"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="27" lineNum="110" parent="globals/LaPrimaFields" pc="268442236" symbol="toDist"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="27" lineNum="111" parent="globals/LaPrimaFields" pc="268442240" symbol="toDist"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="27" lineNum="112" parent="globals/LaPrimaFields" pc="268442250" symbol="toDist"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="27" lineNum="113" parent="globals/LaPrimaFields" pc="268442287" symbol="toDist"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="27" lineNum="115" parent="globals/LaPrimaFields" pc="268442300" symbol="toDist"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="118" parent="globals/LaPrimaFields" pc="268442304" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="119" parent="globals/LaPrimaFields" pc="268442308" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="120" parent="globals/LaPrimaFields" pc="268442308" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="121" parent="globals/LaPrimaFields" pc="268442319" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="123" parent="globals/LaPrimaFields" pc="268442440" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="28" lineNum="125" parent="globals/LaPrimaFields" pc="268442536" symbol="elapsedTimeFmt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="128" parent="globals/LaPrimaFields" pc="268442540" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="129" parent="globals/LaPrimaFields" pc="268442544" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="130" parent="globals/LaPrimaFields" pc="268442551" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="131" parent="globals/LaPrimaFields" pc="268442558" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="132" parent="globals/LaPrimaFields" pc="268442582" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="134" parent="globals/LaPrimaFields" pc="268442605" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="29" lineNum="136" parent="globals/LaPrimaFields" pc="268442623" symbol="calculateAverage"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="30" lineNum="139" parent="globals/LaPrimaFields" pc="268442627" symbol="mod"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="30" lineNum="140" parent="globals/LaPrimaFields" pc="268442631" symbol="mod"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="30" lineNum="141" parent="globals/LaPrimaFields" pc="268442638" symbol="mod"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="30" lineNum="142" parent="globals/LaPrimaFields" pc="268442649" symbol="mod"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="30" lineNum="144" parent="globals/LaPrimaFields" pc="268442662" symbol="mod"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="147" parent="globals/LaPrimaFields" pc="268442666" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="148" parent="globals/LaPrimaFields" pc="268442670" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="149" parent="globals/LaPrimaFields" pc="268442697" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="150" parent="globals/LaPrimaFields" pc="268442701" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="151" parent="globals/LaPrimaFields" pc="268442715" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="152" parent="globals/LaPrimaFields" pc="268442722" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="153" parent="globals/LaPrimaFields" pc="268442736" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="31" lineNum="155" parent="globals/LaPrimaFields" pc="268442752" symbol="readKeyInt"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="158" parent="globals/LaPrimaFields" pc="268442756" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="161" parent="globals/LaPrimaFields" pc="268442760" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="162" parent="globals/LaPrimaFields" pc="268442789" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="163" parent="globals/LaPrimaFields" pc="268442802" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="164" parent="globals/LaPrimaFields" pc="268442818" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="165" parent="globals/LaPrimaFields" pc="268442855" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="168" parent="globals/LaPrimaFields" pc="268442874" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="170" parent="globals/LaPrimaFields" pc="268442887" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="171" parent="globals/LaPrimaFields" pc="268442900" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="172" parent="globals/LaPrimaFields" pc="268442916" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="173" parent="globals/LaPrimaFields" pc="268442953" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="176" parent="globals/LaPrimaFields" pc="268442972" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="178" parent="globals/LaPrimaFields" pc="268442985" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="179" parent="globals/LaPrimaFields" pc="268442998" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="180" parent="globals/LaPrimaFields" pc="268443015" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="181" parent="globals/LaPrimaFields" pc="268443032" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="182" parent="globals/LaPrimaFields" pc="268443049" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="183" parent="globals/LaPrimaFields" pc="268443065" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="184" parent="globals/LaPrimaFields" pc="268443082" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="186" parent="globals/LaPrimaFields" pc="268443098" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="193" parent="globals/LaPrimaFields" pc="268443120" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="194" parent="globals/LaPrimaFields" pc="268443157" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="195" parent="globals/LaPrimaFields" pc="268443170" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="196" parent="globals/LaPrimaFields" pc="268443183" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="197" parent="globals/LaPrimaFields" pc="268443196" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="198" parent="globals/LaPrimaFields" pc="268443209" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="201" parent="globals/LaPrimaFields" pc="268443251" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="202" parent="globals/LaPrimaFields" pc="268443264" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="203" parent="globals/LaPrimaFields" pc="268443277" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="204" parent="globals/LaPrimaFields" pc="268443290" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="205" parent="globals/LaPrimaFields" pc="268443303" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="208" parent="globals/LaPrimaFields" pc="268443342" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="209" parent="globals/LaPrimaFields" pc="268443355" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="213" parent="globals/LaPrimaFields" pc="268443385" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="214" parent="globals/LaPrimaFields" pc="268443402" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="215" parent="globals/LaPrimaFields" pc="268443431" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="216" parent="globals/LaPrimaFields" pc="268443448" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="217" parent="globals/LaPrimaFields" pc="268443470" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="218" parent="globals/LaPrimaFields" pc="268443500" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="221" parent="globals/LaPrimaFields" pc="268443535" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="222" parent="globals/LaPrimaFields" pc="268443560" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="223" parent="globals/LaPrimaFields" pc="268443587" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="225" parent="globals/LaPrimaFields" pc="268443640" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="227" parent="globals/LaPrimaFields" pc="268443656" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="228" parent="globals/LaPrimaFields" pc="268443685" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="229" parent="globals/LaPrimaFields" pc="268443722" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="232" parent="globals/LaPrimaFields" pc="268443738" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="233" parent="globals/LaPrimaFields" pc="268443760" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="234" parent="globals/LaPrimaFields" pc="268443790" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="237" parent="globals/LaPrimaFields" pc="268443825" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="238" parent="globals/LaPrimaFields" pc="268443850" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="239" parent="globals/LaPrimaFields" pc="268443877" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="241" parent="globals/LaPrimaFields" pc="268443927" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="242" parent="globals/LaPrimaFields" pc="268443949" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="243" parent="globals/LaPrimaFields" pc="268443979" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="246" parent="globals/LaPrimaFields" pc="268444014" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="247" parent="globals/LaPrimaFields" pc="268444039" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="248" parent="globals/LaPrimaFields" pc="268444066" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="251" parent="globals/LaPrimaFields" pc="268444116" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="252" parent="globals/LaPrimaFields" pc="268444129" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="254" parent="globals/LaPrimaFields" pc="268444148" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="255" parent="globals/LaPrimaFields" pc="268444165" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="256" parent="globals/LaPrimaFields" pc="268444187" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="257" parent="globals/LaPrimaFields" pc="268444217" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="260" parent="globals/LaPrimaFields" pc="268444252" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="261" parent="globals/LaPrimaFields" pc="268444277" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="262" parent="globals/LaPrimaFields" pc="268444327" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="263" parent="globals/LaPrimaFields" pc="268444346" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="264" parent="globals/LaPrimaFields" pc="268444363" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="265" parent="globals/LaPrimaFields" pc="268444376" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="266" parent="globals/LaPrimaFields" pc="268444406" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="268" parent="globals/LaPrimaFields" pc="268444444" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="269" parent="globals/LaPrimaFields" pc="268444463" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="270" parent="globals/LaPrimaFields" pc="268444513" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="272" parent="globals/LaPrimaFields" pc="268444575" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="273" parent="globals/LaPrimaFields" pc="268444600" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="274" parent="globals/LaPrimaFields" pc="268444613" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="275" parent="globals/LaPrimaFields" pc="268444630" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="276" parent="globals/LaPrimaFields" pc="268444697" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="277" parent="globals/LaPrimaFields" pc="268444714" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="283" parent="globals/LaPrimaFields" pc="268444742" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="284" parent="globals/LaPrimaFields" pc="268444759" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="286" parent="globals/LaPrimaFields" pc="268444792" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="291" parent="globals/LaPrimaFields" pc="268444825" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="292" parent="globals/LaPrimaFields" pc="268444858" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="296" parent="globals/LaPrimaFields" pc="268444892" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="297" parent="globals/LaPrimaFields" pc="268444909" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="298" parent="globals/LaPrimaFields" pc="268444944" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="299" parent="globals/LaPrimaFields" pc="268444970" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="300" parent="globals/LaPrimaFields" pc="268445013" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="301" parent="globals/LaPrimaFields" pc="268445039" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="302" parent="globals/LaPrimaFields" pc="268445118" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="303" parent="globals/LaPrimaFields" pc="268445144" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="304" parent="globals/LaPrimaFields" pc="268445223" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="305" parent="globals/LaPrimaFields" pc="268445249" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="306" parent="globals/LaPrimaFields" pc="268445328" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="307" parent="globals/LaPrimaFields" pc="268445354" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="309" parent="globals/LaPrimaFields" pc="268445433" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="311" parent="globals/LaPrimaFields" pc="268445509" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="312" parent="globals/LaPrimaFields" pc="268445522" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="314" parent="globals/LaPrimaFields" pc="268445541" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="315" parent="globals/LaPrimaFields" pc="268445558" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="316" parent="globals/LaPrimaFields" pc="268445587" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="317" parent="globals/LaPrimaFields" pc="268445624" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="319" parent="globals/LaPrimaFields" pc="268445640" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="320" parent="globals/LaPrimaFields" pc="268445666" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="321" parent="globals/LaPrimaFields" pc="268445688" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="322" parent="globals/LaPrimaFields" pc="268445743" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="323" parent="globals/LaPrimaFields" pc="268445765" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="324" parent="globals/LaPrimaFields" pc="268445820" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="325" parent="globals/LaPrimaFields" pc="268445842" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="326" parent="globals/LaPrimaFields" pc="268445897" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="327" parent="globals/LaPrimaFields" pc="268445919" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="328" parent="globals/LaPrimaFields" pc="268445945" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="334" parent="globals/LaPrimaFields" pc="268445973" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="335" parent="globals/LaPrimaFields" pc="268445986" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="339" parent="globals/LaPrimaFields" pc="268446005" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="340" parent="globals/LaPrimaFields" pc="268446034" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="341" parent="globals/LaPrimaFields" pc="268446051" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="342" parent="globals/LaPrimaFields" pc="268446064" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="343" parent="globals/LaPrimaFields" pc="268446080" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="346" parent="globals/LaPrimaFields" pc="268446107" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="347" parent="globals/LaPrimaFields" pc="268446120" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="348" parent="globals/LaPrimaFields" pc="268446136" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="351" parent="globals/LaPrimaFields" pc="268446160" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="352" parent="globals/LaPrimaFields" pc="268446194" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="353" parent="globals/LaPrimaFields" pc="268446217" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="354" parent="globals/LaPrimaFields" pc="268446254" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="355" parent="globals/LaPrimaFields" pc="268446265" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="357" parent="globals/LaPrimaFields" pc="268446281" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="360" parent="globals/LaPrimaFields" pc="268446311" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="361" parent="globals/LaPrimaFields" pc="268446322" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="363" parent="globals/LaPrimaFields" pc="268446338" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="366" parent="globals/LaPrimaFields" pc="268446365" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="367" parent="globals/LaPrimaFields" pc="268446382" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="368" parent="globals/LaPrimaFields" pc="268446448" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="369" parent="globals/LaPrimaFields" pc="268446477" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="370" parent="globals/LaPrimaFields" pc="268446490" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="374" parent="globals/LaPrimaFields" pc="268446509" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="375" parent="globals/LaPrimaFields" pc="268446538" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="376" parent="globals/LaPrimaFields" pc="268446567" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="377" parent="globals/LaPrimaFields" pc="268446596" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="380" parent="globals/LaPrimaFields" pc="268446625" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="381" parent="globals/LaPrimaFields" pc="268446642" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="382" parent="globals/LaPrimaFields" pc="268446659" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="384" parent="globals/LaPrimaFields" pc="268446675" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="385" parent="globals/LaPrimaFields" pc="268446692" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="387" parent="globals/LaPrimaFields" pc="268446708" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="388" parent="globals/LaPrimaFields" pc="268446725" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="390" parent="globals/LaPrimaFields" pc="268446741" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="391" parent="globals/LaPrimaFields" pc="268446758" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="393" parent="globals/LaPrimaFields" pc="268446777" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="394" parent="globals/LaPrimaFields" pc="268446794" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="395" parent="globals/LaPrimaFields" pc="268446831" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="397" parent="globals/LaPrimaFields" pc="268446847" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="398" parent="globals/LaPrimaFields" pc="268446884" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="400" parent="globals/LaPrimaFields" pc="268446900" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="401" parent="globals/LaPrimaFields" pc="268446937" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="403" parent="globals/LaPrimaFields" pc="268446953" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="404" parent="globals/LaPrimaFields" pc="268446990" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="408" parent="globals/LaPrimaFields" pc="268447009" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="409" parent="globals/LaPrimaFields" pc="268447027" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="410" parent="globals/LaPrimaFields" pc="268447040" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="411" parent="globals/LaPrimaFields" pc="268447053" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="413" parent="globals/LaPrimaFields" pc="268447144" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="414" parent="globals/LaPrimaFields" pc="268447160" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="416" parent="globals/LaPrimaFields" pc="268447163" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="417" parent="globals/LaPrimaFields" pc="268447179" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="419" parent="globals/LaPrimaFields" pc="268447182" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="420" parent="globals/LaPrimaFields" pc="268447198" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="422" parent="globals/LaPrimaFields" pc="268447201" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="423" parent="globals/LaPrimaFields" pc="268447217" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="426" parent="globals/LaPrimaFields" pc="268447220" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="428" parent="globals/LaPrimaFields" pc="268447583" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="429" parent="globals/LaPrimaFields" pc="268447617" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="430" parent="globals/LaPrimaFields" pc="268447624" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="431" parent="globals/LaPrimaFields" pc="268447635" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="432" parent="globals/LaPrimaFields" pc="268447646" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="433" parent="globals/LaPrimaFields" pc="268447656" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="434" parent="globals/LaPrimaFields" pc="268447667" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="435" parent="globals/LaPrimaFields" pc="268447740" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="436" parent="globals/LaPrimaFields" pc="268447751" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="437" parent="globals/LaPrimaFields" pc="268447824" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="438" parent="globals/LaPrimaFields" pc="268447835" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="439" parent="globals/LaPrimaFields" pc="268447908" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="440" parent="globals/LaPrimaFields" pc="268447919" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="441" parent="globals/LaPrimaFields" pc="268447992" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="442" parent="globals/LaPrimaFields" pc="268448003" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="443" parent="globals/LaPrimaFields" pc="268448076" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="444" parent="globals/LaPrimaFields" pc="268448087" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="447" parent="globals/LaPrimaFields" pc="268448142" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="448" parent="globals/LaPrimaFields" pc="268448172" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="449" parent="globals/LaPrimaFields" pc="268448202" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="451" parent="globals/LaPrimaFields" pc="268448205" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="452" parent="globals/LaPrimaFields" pc="268448241" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="454" parent="globals/LaPrimaFields" pc="268448244" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="455" parent="globals/LaPrimaFields" pc="268448280" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="457" parent="globals/LaPrimaFields" pc="268448283" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="458" parent="globals/LaPrimaFields" pc="268448319" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="460" parent="globals/LaPrimaFields" pc="268448322" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="461" parent="globals/LaPrimaFields" pc="268448358" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="462" parent="globals/LaPrimaFields" pc="268448394" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="464" parent="globals/LaPrimaFields" pc="268448397" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="465" parent="globals/LaPrimaFields" pc="268448433" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="466" parent="globals/LaPrimaFields" pc="268448463" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="468" parent="globals/LaPrimaFields" pc="268448466" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="469" parent="globals/LaPrimaFields" pc="268448502" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="470" parent="globals/LaPrimaFields" pc="268448544" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="472" parent="globals/LaPrimaFields" pc="268448547" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="473" parent="globals/LaPrimaFields" pc="268448563" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="474" parent="globals/LaPrimaFields" pc="268448599" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="476" parent="globals/LaPrimaFields" pc="268448602" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="477" parent="globals/LaPrimaFields" pc="268448618" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="478" parent="globals/LaPrimaFields" pc="268448654" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="480" parent="globals/LaPrimaFields" pc="268448657" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="481" parent="globals/LaPrimaFields" pc="268448719" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="482" parent="globals/LaPrimaFields" pc="268448755" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="484" parent="globals/LaPrimaFields" pc="268448758" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="485" parent="globals/LaPrimaFields" pc="268448787" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="487" parent="globals/LaPrimaFields" pc="268448827" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="489" parent="globals/LaPrimaFields" pc="268448840" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="490" parent="globals/LaPrimaFields" pc="268448857" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="492" parent="globals/LaPrimaFields" pc="268448890" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="494" parent="globals/LaPrimaFields" pc="268448999" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="495" parent="globals/LaPrimaFields" pc="268449021" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="497" parent="globals/LaPrimaFields" pc="268449024" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="498" parent="globals/LaPrimaFields" pc="268449041" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="500" parent="globals/LaPrimaFields" pc="268449090" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="501" parent="globals/LaPrimaFields" pc="268449126" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="502" parent="globals/LaPrimaFields" pc="268449162" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="504" parent="globals/LaPrimaFields" pc="268449165" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="505" parent="globals/LaPrimaFields" pc="268449182" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="507" parent="globals/LaPrimaFields" pc="268449231" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="508" parent="globals/LaPrimaFields" pc="268449267" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="509" parent="globals/LaPrimaFields" pc="268449303" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="511" parent="globals/LaPrimaFields" pc="268449306" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="512" parent="globals/LaPrimaFields" pc="268449323" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="514" parent="globals/LaPrimaFields" pc="268449392" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="516" parent="globals/LaPrimaFields" pc="268449405" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="517" parent="globals/LaPrimaFields" pc="268449435" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="519" parent="globals/LaPrimaFields" pc="268449438" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="520" parent="globals/LaPrimaFields" pc="268449451" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="522" parent="globals/LaPrimaFields" pc="268449470" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="524" parent="globals/LaPrimaFields" pc="268449483" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="525" parent="globals/LaPrimaFields" pc="268449500" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="527" parent="globals/LaPrimaFields" pc="268449533" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="529" parent="globals/LaPrimaFields" pc="268449642" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="530" parent="globals/LaPrimaFields" pc="268449664" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="532" parent="globals/LaPrimaFields" pc="268449667" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="533" parent="globals/LaPrimaFields" pc="268449680" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="534" parent="globals/LaPrimaFields" pc="268449717" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="536" parent="globals/LaPrimaFields" pc="268449736" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="539" parent="globals/LaPrimaFields" pc="268449761" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="540" parent="globals/LaPrimaFields" pc="268449774" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="541" parent="globals/LaPrimaFields" pc="268449791" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="543" parent="globals/LaPrimaFields" pc="268449824" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="546" parent="globals/LaPrimaFields" pc="268449936" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="547" parent="globals/LaPrimaFields" pc="268449973" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="549" parent="globals/LaPrimaFields" pc="268449998" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="551" parent="globals/LaPrimaFields" pc="268450020" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="553" parent="globals/LaPrimaFields" pc="268450023" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="554" parent="globals/LaPrimaFields" pc="268450036" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="555" parent="globals/LaPrimaFields" pc="268450073" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="557" parent="globals/LaPrimaFields" pc="268450092" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="560" parent="globals/LaPrimaFields" pc="268450117" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="561" parent="globals/LaPrimaFields" pc="268450130" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="562" parent="globals/LaPrimaFields" pc="268450147" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="564" parent="globals/LaPrimaFields" pc="268450180" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="567" parent="globals/LaPrimaFields" pc="268450292" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="568" parent="globals/LaPrimaFields" pc="268450329" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="570" parent="globals/LaPrimaFields" pc="268450354" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="572" parent="globals/LaPrimaFields" pc="268450376" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="574" parent="globals/LaPrimaFields" pc="268450379" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="575" parent="globals/LaPrimaFields" pc="268450409" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="578" parent="globals/LaPrimaFields" pc="268450412" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="580" parent="globals/LaPrimaFields" pc="268450503" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="581" parent="globals/LaPrimaFields" pc="268450519" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="582" parent="globals/LaPrimaFields" pc="268450535" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="584" parent="globals/LaPrimaFields" pc="268450538" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="585" parent="globals/LaPrimaFields" pc="268450554" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="586" parent="globals/LaPrimaFields" pc="268450570" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="588" parent="globals/LaPrimaFields" pc="268450573" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="589" parent="globals/LaPrimaFields" pc="268450589" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="590" parent="globals/LaPrimaFields" pc="268450605" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="592" parent="globals/LaPrimaFields" pc="268450608" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="593" parent="globals/LaPrimaFields" pc="268450624" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="32" lineNum="594" parent="globals/LaPrimaFields" pc="268450640" symbol="compute"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="28" parent="globals/LaPrimaFields" pc="268450660" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="30" parent="globals/LaPrimaFields" pc="268450674" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="32" parent="globals/LaPrimaFields" pc="268450688" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="49" parent="globals/LaPrimaFields" pc="268450702" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="50" parent="globals/LaPrimaFields" pc="268450719" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="52" parent="globals/LaPrimaFields" pc="268450736" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="55" parent="globals/LaPrimaFields" pc="268450750" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="33" lineNum="7" parent="globals/LaPrimaFields" pc="268450660" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Home\\Documents\\Projects\\Garmin\\La Prima Cycling Screen\\Source Code\\La-Prima-Cycling-Screen\\source\\LaPrimaFields.mc" id="34" lineNum="7" parent="globals/LaPrimaFields" pc="268450657" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="2" parent="globals/Rez/Drawables" pc="268450811" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="37" lineNum="6" parent="globals/Rez/Fonts" pc="268450813" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="38" lineNum="8" parent="globals/Rez/JsonData" pc="268450815" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="39" lineNum="10" parent="globals/Rez/Layouts" pc="268450814" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="40" lineNum="12" parent="globals/Rez/Menus" pc="268450812" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="41" lineNum="14" parent="globals/Rez/Strings" pc="268450816" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="42" lineNum="1" parent="globals/Rez" pc="268450787" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="42" lineNum="1" parent="globals/Rez" pc="268450787" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="50" symbol="Cal"/>
+        <entry field="true" id="25" symbol="curHR"/>
+        <entry field="true" id="28" symbol="Cad"/>
+        <entry field="true" id="17" symbol="TimeDisp"/>
+        <entry field="true" id="33" symbol="aSpd"/>
+        <entry id="13" object="true" symbol="TempBgServiceDelegate"/>
+        <entry field="true" id="29" symbol="avgPwr"/>
+        <entry field="true" id="55" symbol="myNP"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="9" symbol="temp"/>
+        <entry field="true" id="116" symbol="TrainingLoad_NZPower"/>
+        <entry field="true" id="129" symbol="PwrHRAuto"/>
+        <entry field="true" id="146" symbol="TimeDisplayT"/>
+        <entry field="true" id="67" symbol="rideWith"/>
+        <entry field="true" id="60" symbol="f30Pwr"/>
+        <entry field="true" id="143" symbol="ThreeSecondAvg"/>
+        <entry field="true" id="112" symbol="Work"/>
+        <entry field="true" id="36" symbol="aPwr3"/>
+        <entry field="true" id="44" symbol="myElevFmt"/>
+        <entry field="true" id="139" symbol="MovingTime"/>
+        <entry id="8390718" method="true" symbol="drawLayout"/>
+        <entry field="true" id="68" symbol="hasHR"/>
+        <entry id="89" method="true" symbol="fmtTemperature"/>
+        <entry field="true" id="106" symbol="TenSecondAvg"/>
+        <entry field="true" id="108" symbol="ScrGreen"/>
+        <entry field="true" id="113" symbol="PwrOnly"/>
+        <entry field="true" id="134" symbol="WattsKg"/>
+        <entry field="true" id="42" symbol="DistLab2"/>
+        <entry field="true" id="41" symbol="DistLab1"/>
+        <entry field="true" id="150" symbol="AvgHrLT"/>
+        <entry field="true" id="40" symbol="Dist"/>
+        <entry id="8388647" module="true" symbol="UserProfile"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="142" symbol="ScrRed"/>
+        <entry id="91" method="true" symbol="elapsedTimeFmt"/>
+        <entry field="true" id="43" symbol="myElev"/>
+        <entry field="true" id="48" symbol="Tempr"/>
+        <entry id="10" object="true" symbol="LaPrimaApp"/>
+        <entry field="true" id="115" symbol="Intensity_NZPower"/>
+        <entry field="true" id="62" symbol="Inten"/>
+        <entry field="true" id="128" symbol="AppName"/>
+        <entry field="true" id="45" symbol="myElevLab"/>
+        <entry field="true" id="66" symbol="HRavg"/>
+        <entry id="12" object="true" symbol="LaPrimaFields"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="92" method="true" symbol="calculateAverage"/>
+        <entry id="8390147" object="true" symbol="ServiceDelegate"/>
+        <entry field="true" id="141" symbol="HrTSS"/>
+        <entry field="true" id="38" symbol="aPwr30"/>
+        <entry field="true" id="26" symbol="HRZ"/>
+        <entry field="true" id="27" symbol="HRP"/>
+        <entry field="true" id="34" symbol="aPwr10"/>
+        <entry field="true" id="64" symbol="cTSS"/>
+        <entry field="true" id="65" symbol="TSSFmt"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8390148" method="true" symbol="onTemporalEvent"/>
+        <entry field="true" id="59" symbol="aNPwrI30"/>
+        <entry field="true" id="136" symbol="AvgPower"/>
+        <entry field="true" id="137" symbol="ScrGreen2"/>
+        <entry field="true" id="56" symbol="totalNP"/>
+        <entry field="true" id="123" symbol="ScrPink2"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="93" method="true" symbol="mod"/>
+        <entry field="true" id="140" symbol="ScrRed2"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="114" symbol="ScrPink"/>
+        <entry id="8390169" method="true" symbol="getServiceDelegate"/>
+        <entry id="101" module="true" symbol="Menus"/>
+        <entry field="true" id="16" symbol="PowerDisp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="63" symbol="TSS"/>
+        <entry field="true" id="19" symbol="Spd"/>
+        <entry field="true" id="126" symbol="HrZoneLT"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="37" symbol="aI3"/>
+        <entry field="true" id="131" symbol="ScrBlue2"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="117" symbol="LTHRlabel"/>
+        <entry field="true" id="103" symbol="Scr"/>
+        <entry field="true" id="61" symbol="NP30s"/>
+        <entry field="true" id="111" symbol="TPwrT"/>
+        <entry field="true" id="70" symbol="hrTSS"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="120" symbol="ScrPurple"/>
+        <entry field="true" id="83" symbol="xFld"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8390170" method="true" symbol="onBackgroundData"/>
+        <entry field="true" id="149" symbol="ScrYellow"/>
+        <entry field="true" id="125" symbol="NZPower_ASpeed"/>
+        <entry field="true" id="46" symbol="eTime"/>
+        <entry field="true" id="95" symbol="fields"/>
+        <entry field="true" id="148" symbol="ScrBlack"/>
+        <entry field="true" id="53" symbol="workFmt"/>
+        <entry field="true" id="15" symbol="FTP"/>
+        <entry id="96" method="true" symbol="drawGPS"/>
+        <entry field="true" id="49" symbol="myBat"/>
+        <entry field="true" id="132" symbol="TrainingLoad_10sPower"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="87" symbol="xFld4"/>
+        <entry field="true" id="86" symbol="xFld3"/>
+        <entry field="true" id="85" symbol="xFld2"/>
+        <entry field="true" id="84" symbol="xFld1"/>
+        <entry field="true" id="104" symbol="PwrZone"/>
+        <entry field="true" id="20" symbol="SpdLab"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="119" symbol="Instant"/>
+        <entry id="90" method="true" symbol="toDist"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="32" symbol="avgPwrKG"/>
+        <entry field="true" id="82" symbol="mHRZ"/>
+        <entry field="true" id="102" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="99" method="true" symbol="textR"/>
+        <entry id="97" method="true" symbol="textL"/>
+        <entry id="98" method="true" symbol="textC"/>
+        <entry field="true" id="145" symbol="PwrHR"/>
+        <entry id="14" symbol="globals/LaPrimaApp"/>
+        <entry field="true" id="133" symbol="Fld4T"/>
+        <entry field="true" id="144" symbol="CurrentElevation"/>
+        <entry field="true" id="109" symbol="IRideWithT"/>
+        <entry field="true" id="124" symbol="Fld3T"/>
+        <entry field="true" id="58" symbol="aNPwr30"/>
+        <entry field="true" id="121" symbol="Fld2T"/>
+        <entry field="true" id="57" symbol="totalNPSize"/>
+        <entry field="true" id="107" symbol="Fld1T"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="21" symbol="cPwr"/>
+        <entry id="8390146" module="true" symbol="Background"/>
+        <entry field="true" id="138" symbol="ScrOrange"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="69" symbol="hasPwr"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="73" symbol="oVal2"/>
+        <entry field="true" id="72" symbol="oVal1"/>
+        <entry field="true" id="51" symbol="CalFmt"/>
+        <entry field="true" id="105" symbol="ScrBlue"/>
+        <entry field="true" id="122" symbol="NZPower_10sPower"/>
+        <entry field="true" id="31" symbol="avgPwr30"/>
+        <entry field="true" id="23" symbol="PwrZ"/>
+        <entry field="true" id="24" symbol="PwrT"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="30" symbol="avgPwr10"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="94" method="true" symbol="readKeyInt"/>
+        <entry field="true" id="22" symbol="Pwr"/>
+        <entry field="true" id="81" symbol="oFld4b"/>
+        <entry field="true" id="80" symbol="oFld4a"/>
+        <entry field="true" id="79" symbol="oFld3b"/>
+        <entry field="true" id="78" symbol="oFld3a"/>
+        <entry field="true" id="77" symbol="oFld2b"/>
+        <entry field="true" id="76" symbol="oFld2a"/>
+        <entry id="11" object="true" symbol="LaPrimaView"/>
+        <entry id="100" module="true" symbol="Layouts"/>
+        <entry field="true" id="127" symbol="ElapsedTime"/>
+        <entry field="true" id="75" symbol="oFld1b"/>
+        <entry field="true" id="74" symbol="oFld1a"/>
+        <entry field="true" id="147" symbol="Calories"/>
+        <entry field="true" id="39" symbol="aI30"/>
+        <entry field="true" id="47" symbol="myTime"/>
+        <entry field="true" id="71" symbol="LTHR"/>
+        <entry field="true" id="35" symbol="aI10"/>
+        <entry field="true" id="54" symbol="myGPS"/>
+        <entry field="true" id="110" symbol="HrZoneMax"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="135" symbol="TotalAscent"/>
+        <entry field="true" id="52" symbol="work"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="118" symbol="ThirtySecondAvg"/>
+        <entry field="true" id="130" symbol="HROnly"/>
+        <entry field="true" id="18" symbol="sColor"/>
+        <entry id="88" method="true" symbol="fmtTime"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435618" name="data" stackId="1" startPc="268435604"/>
+        <entry endPc="268435734" name="si" stackId="1" startPc="268435692"/>
+        <entry arg="true" endPc="268435832" name="dc" stackId="1" startPc="268435828"/>
+        <entry arg="true" endPc="268436725" name="dc" stackId="1" startPc="268435843"/>
+        <entry arg="true" endPc="268436725" name="fc" stackId="2" startPc="268435843"/>
+        <entry arg="true" endPc="268437097" name="dc" stackId="2" startPc="268436726"/>
+        <entry arg="true" endPc="268437097" name="fc" stackId="3" startPc="268436726"/>
+        <entry arg="true" endPc="268437097" name="myGPS" stackId="1" startPc="268436726"/>
+        <entry arg="true" endPc="268437097" name="loc" stackId="5" startPc="268436726"/>
+        <entry arg="true" endPc="268437097" name="row" stackId="4" startPc="268436726"/>
+        <entry endPc="268441817" name="spdLab" stackId="20" startPc="268437102"/>
+        <entry endPc="268441817" name="batPadL" stackId="16" startPc="268437102"/>
+        <entry endPc="268441817" name="leftOptOne" stackId="25" startPc="268437102"/>
+        <entry endPc="268441817" name="imgAdj" stackId="19" startPc="268437102"/>
+        <entry endPc="268441817" name="midPad" stackId="15" startPc="268437102"/>
+        <entry endPc="268441817" name="rightOptOne" stackId="28" startPc="268437102"/>
+        <entry endPc="268441817" name="rightOptTwoB" stackId="27" startPc="268437102"/>
+        <entry endPc="268441817" name="distLocLab" stackId="11" startPc="268437102"/>
+        <entry endPc="268441817" name="rightOptTwoA" stackId="26" startPc="268437102"/>
+        <entry endPc="268441817" name="pwrLocLab" stackId="9" startPc="268437102"/>
+        <entry endPc="268441817" name="hrLocLab" stackId="10" startPc="268437102"/>
+        <entry endPc="268441817" name="leftOptTwoB" stackId="24" startPc="268437102"/>
+        <entry endPc="268441817" name="leftOptTwoA" stackId="23" startPc="268437102"/>
+        <entry endPc="268441817" name="cadLoc" stackId="29" startPc="268437102"/>
+        <entry endPc="268441817" name="batImgRow" stackId="33" startPc="268437102"/>
+        <entry endPc="268441817" name="topPad" stackId="14" startPc="268437102"/>
+        <entry endPc="268441817" name="fc" stackId="12" startPc="268437102"/>
+        <entry endPc="268441817" name="batImgLoc" stackId="32" startPc="268437102"/>
+        <entry endPc="268441817" name="row7" stackId="8" startPc="268437102"/>
+        <entry endPc="268441817" name="row6" stackId="7" startPc="268437102"/>
+        <entry endPc="268441817" name="row5" stackId="6" startPc="268437102"/>
+        <entry endPc="268441817" name="row4" stackId="5" startPc="268437102"/>
+        <entry endPc="268441817" name="row3" stackId="4" startPc="268437102"/>
+        <entry endPc="268441817" name="row2" stackId="3" startPc="268437102"/>
+        <entry endPc="268441817" name="row1" stackId="2" startPc="268437102"/>
+        <entry endPc="268441817" name="sidePad" stackId="13" startPc="268437102"/>
+        <entry endPc="268441817" name="distLoc" stackId="31" startPc="268437102"/>
+        <entry endPc="268441817" name="hrLoc" stackId="22" startPc="268437102"/>
+        <entry endPc="268441817" name="pwrLoc" stackId="21" startPc="268437102"/>
+        <entry endPc="268441817" name="batPadT" stackId="18" startPc="268437102"/>
+        <entry endPc="268441817" name="batPadR" stackId="17" startPc="268437102"/>
+        <entry endPc="268441817" name="cadLocLab" stackId="30" startPc="268437102"/>
+        <entry arg="true" endPc="268441818" name="dc" stackId="1" startPc="268437098"/>
+        <entry arg="true" endPc="268441849" name="info" stackId="1" startPc="268441819"/>
+        <entry arg="true" endPc="268441896" name="x" stackId="2" startPc="268441850"/>
+        <entry arg="true" endPc="268441896" name="dc" stackId="1" startPc="268441850"/>
+        <entry arg="true" endPc="268441896" name="font" stackId="4" startPc="268441850"/>
+        <entry arg="true" endPc="268441896" name="s" stackId="5" startPc="268441850"/>
+        <entry arg="true" endPc="268441896" name="y" stackId="3" startPc="268441850"/>
+        <entry arg="true" endPc="268441943" name="x" stackId="2" startPc="268441897"/>
+        <entry arg="true" endPc="268441943" name="dc" stackId="1" startPc="268441897"/>
+        <entry arg="true" endPc="268441943" name="font" stackId="4" startPc="268441897"/>
+        <entry arg="true" endPc="268441943" name="s" stackId="5" startPc="268441897"/>
+        <entry arg="true" endPc="268441943" name="y" stackId="3" startPc="268441897"/>
+        <entry arg="true" endPc="268441990" name="x" stackId="2" startPc="268441944"/>
+        <entry arg="true" endPc="268441990" name="dc" stackId="1" startPc="268441944"/>
+        <entry arg="true" endPc="268441990" name="font" stackId="4" startPc="268441944"/>
+        <entry arg="true" endPc="268441990" name="s" stackId="5" startPc="268441944"/>
+        <entry arg="true" endPc="268441990" name="y" stackId="3" startPc="268441944"/>
+        <entry endPc="268442146" name="h2" stackId="3" startPc="268441995"/>
+        <entry endPc="268442146" name="h" stackId="2" startPc="268441995"/>
+        <entry arg="true" endPc="268442147" name="clock" stackId="1" startPc="268441991"/>
+        <entry endPc="268442234" name="ret" stackId="2" startPc="268442152"/>
+        <entry arg="true" endPc="268442235" name="a" stackId="1" startPc="268442148"/>
+        <entry endPc="268442302" name="ret" stackId="2" startPc="268442240"/>
+        <entry arg="true" endPc="268442303" name="value" stackId="1" startPc="268442236"/>
+        <entry endPc="268442538" name="ret" stackId="2" startPc="268442308"/>
+        <entry arg="true" endPc="268442539" name="elapsedTime" stackId="1" startPc="268442304"/>
+        <entry endPc="268442604" name="i" stackId="3" startPc="268442582"/>
+        <entry endPc="268442625" name="sum" stackId="2" startPc="268442544"/>
+        <entry arg="true" endPc="268442626" name="sumArray" stackId="1" startPc="268442540"/>
+        <entry endPc="268442664" name="tmp1" stackId="3" startPc="268442631"/>
+        <entry arg="true" endPc="268442665" name="b" stackId="2" startPc="268442627"/>
+        <entry arg="true" endPc="268442665" name="a" stackId="1" startPc="268442627"/>
+        <entry endPc="268442754" name="gVal" stackId="3" startPc="268442670"/>
+        <entry endPc="268442754" name="val" stackId="4" startPc="268442670"/>
+        <entry arg="true" endPc="268442755" name="key" stackId="1" startPc="268442666"/>
+        <entry arg="true" endPc="268442755" name="defaultVal" stackId="2" startPc="268442666"/>
+        <entry endPc="268443531" name="i" stackId="2" startPc="268443500"/>
+        <entry endPc="268443821" name="i" stackId="3" startPc="268443790"/>
+        <entry endPc="268444010" name="i" stackId="4" startPc="268443979"/>
+        <entry endPc="268444248" name="i" stackId="5" startPc="268444217"/>
+        <entry endPc="268444443" name="i" stackId="6" startPc="268444406"/>
+        <entry endPc="268446100" name="elapsedTime" stackId="7" startPc="268446064"/>
+        <entry endPc="268446156" name="elapsedTime" stackId="8" startPc="268446120"/>
+        <entry endPc="268450411" name="PwrZ" stackId="13" startPc="268447228"/>
+        <entry endPc="268450411" name="PwrT" stackId="12" startPc="268447228"/>
+        <entry endPc="268450655" name="i2" stackId="11" startPc="268447027"/>
+        <entry endPc="268450655" name="unitStats" stackId="10" startPc="268442760"/>
+        <entry endPc="268450655" name="gTmp" stackId="9" startPc="268442760"/>
+        <entry arg="true" endPc="268450656" name="info" stackId="1" startPc="268442756"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Scr"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PwrZone"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TenSecondAvg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Fld1T"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrGreen"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="IRideWithT"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HrZoneMax"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TPwrT"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Work"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PwrOnly"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrPink"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Intensity_NZPower"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TrainingLoad_NZPower"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="LTHRlabel"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ThirtySecondAvg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Instant"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrPurple"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Fld2T"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NZPower_10sPower"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PwrT"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrPink2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Fld3T"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NZPower_ASpeed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HrZoneLT"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ElapsedTime"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PwrHRAuto"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HROnly"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrBlue2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TrainingLoad_10sPower"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Fld4T"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WattsKg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TotalAscent"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AvgPower"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrGreen2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrOrange"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MovingTime"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrRed2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HrTSS"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ThreeSecondAvg"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="CurrentElevation"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PwrHR"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="TimeDisplayT"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Calories"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ScrYellow"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AvgHrLT"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/LaPrimaApp" offset="166" parentId="globals" symbolId="LaPrimaApp" type="class"/>
+        <dataEntry label="globals/LaPrimaApp/TempBgServiceDelegate" offset="269" parentId="LaPrimaApp" symbolId="TempBgServiceDelegate" type="class"/>
+        <dataEntry label="globals/LaPrimaFields" offset="572" parentId="globals" symbolId="LaPrimaFields" type="class"/>
+        <dataEntry label="globals/LaPrimaView" offset="1267" parentId="globals" symbolId="LaPrimaView" type="class"/>
+        <dataEntry label="globals/Rez" offset="1402" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1481" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1520" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1551" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1582" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1613" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1644" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="LaPrimaApp" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="onStart" parent="LaPrimaApp" startPc="268435479">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435488" name="onStop" parent="LaPrimaApp" startPc="268435484">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435603" name="getInitialView" parent="LaPrimaApp" startPc="268435489">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435618" name="onBackgroundData" parent="LaPrimaApp" startPc="268435604">
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435660" name="getServiceDelegate" parent="LaPrimaApp" startPc="268435619">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435687" name="initialize" parent="TempBgServiceDelegate" startPc="268435661">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435735" name="onTemporalEvent" parent="TempBgServiceDelegate" startPc="268435688">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435774" name="&lt;init&gt;" parent="TempBgServiceDelegate" startPc="268435756">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435755" name="&lt;init&gt;" parent="LaPrimaApp" startPc="268435737">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435827" name="initialize" parent="LaPrimaView" startPc="268435775">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435832" name="onLayout" parent="LaPrimaView" startPc="268435828">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435837" name="onShow" parent="LaPrimaView" startPc="268435833">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435842" name="onHide" parent="LaPrimaView" startPc="268435838">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436725" name="drawLayout" parent="LaPrimaView" startPc="268435843">
+            <param id="dc"/>
+            <param id="fc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437097" name="drawGPS" parent="LaPrimaView" startPc="268436726">
+            <param id="myGPS"/>
+            <param id="dc"/>
+            <param id="fc"/>
+            <param id="row"/>
+            <param id="loc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441818" name="onUpdate" parent="LaPrimaView" startPc="268437098">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441849" name="compute" parent="LaPrimaView" startPc="268441819">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441896" name="textL" parent="LaPrimaView" startPc="268441850">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="font"/>
+            <param id="s"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441943" name="textC" parent="LaPrimaView" startPc="268441897">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="font"/>
+            <param id="s"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441990" name="textR" parent="LaPrimaView" startPc="268441944">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="font"/>
+            <param id="s"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450786" name="&lt;init&gt;" parent="LaPrimaView" startPc="268450768">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442147" name="fmtTime" parent="LaPrimaFields" startPc="268441991">
+            <param id="clock"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442235" name="fmtTemperature" parent="LaPrimaFields" startPc="268442148">
+            <param id="a"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442303" name="toDist" parent="LaPrimaFields" startPc="268442236">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442539" name="elapsedTimeFmt" parent="LaPrimaFields" startPc="268442304">
+            <param id="elapsedTime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442626" name="calculateAverage" parent="LaPrimaFields" startPc="268442540">
+            <param id="sumArray"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442665" name="mod" parent="LaPrimaFields" startPc="268442627">
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442755" name="readKeyInt" parent="LaPrimaFields" startPc="268442666">
+            <param id="key"/>
+            <param id="defaultVal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268450656" name="compute" parent="LaPrimaFields" startPc="268442756">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450767" name="&lt;init&gt;" parent="LaPrimaFields" startPc="268450660">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268450659" name="initialize" parent="LaPrimaFields" startPc="268450657">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450811" name="&lt;init&gt;" parent="Drawables" startPc="268450811">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450813" name="&lt;init&gt;" parent="Fonts" startPc="268450813">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450815" name="&lt;init&gt;" parent="JsonData" startPc="268450815">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450814" name="&lt;init&gt;" parent="Layouts" startPc="268450814">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450812" name="&lt;init&gt;" parent="Menus" startPc="268450812">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450816" name="&lt;init&gt;" parent="Strings" startPc="268450816">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268450810" name="&lt;init&gt;" parent="Rez" startPc="268450787">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

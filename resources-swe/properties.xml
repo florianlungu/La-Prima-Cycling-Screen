@@ -1,6 +1,7 @@
 <resources>
 <properties>
 <property id="ThesholdPower" type="number">250</property>
+<property id="LTHR" type="number">170</property>
 <property id="IRideWith" type="number">0</property>
 <property id="PowerDisplay" type="number">0</property>
 <property id="Fld1" type="number">0</property>
@@ -12,6 +13,7 @@
 </properties>
 <strings>
 <string id="TPwrT">Funktionell tröskeleffekt (FTP) i watt</string>
+<string id="LTHRlabel">Lactate Threshold Heart Rate</string> 
 <string id="PwrT">Power display</string>
 <string id="Instant">Omedelbar kraft</string>
 <string id="ThreeSecondAvg">3 sekunders effekt</string>
@@ -57,9 +59,13 @@
 <string id="HrZoneLT">HR-zon och procent LT</string>
 <string id="HrZoneMax">HR-zon och procentuell maximal HR</string>
 <string id="AvgHrLT">Genomsnittlig HR och procent LT</string>
+<string id="HrTSS">hrTSS</string>
 </strings>
 <settings>
 <setting propertyKey="@Properties.ThesholdPower" title="@Strings.TPwrT">
+<settingConfig type="numeric" />
+</setting>
+<setting propertyKey="@Properties.LTHR" title="@Strings.LTHRlabel">
 <settingConfig type="numeric" />
 </setting>
 <setting propertyKey="@Properties.IRideWith" title="@Strings.IRideWithT">
@@ -95,6 +101,7 @@
 <listEntry value="23">@Strings.Calories</listEntry>
 <listEntry value="31">@Strings.CurrentElevation</listEntry>
 <listEntry value="32">@Strings.TotalAscent</listEntry>
+<listEntry value="33">@Strings.HrTSS</listEntry>
 </settingConfig>
 </setting>
 <setting propertyKey="@Properties.Fld2" title="@Strings.Fld2T">
@@ -116,6 +123,7 @@
 <listEntry value="23">@Strings.Calories</listEntry>
 <listEntry value="31">@Strings.CurrentElevation</listEntry>
 <listEntry value="32">@Strings.TotalAscent</listEntry>
+<listEntry value="33">@Strings.HrTSS</listEntry>
 </settingConfig>
 </setting>
 <setting propertyKey="@Properties.Fld3" title="@Strings.Fld3T">
@@ -137,6 +145,7 @@
 <listEntry value="23">@Strings.Calories</listEntry>
 <listEntry value="31">@Strings.CurrentElevation</listEntry>
 <listEntry value="32">@Strings.TotalAscent</listEntry>
+<listEntry value="33">@Strings.HrTSS</listEntry>
 </settingConfig>
 </setting>
 <setting propertyKey="@Properties.Fld4" title="@Strings.Fld4T">
@@ -158,6 +167,7 @@
 <listEntry value="23">@Strings.Calories</listEntry>
 <listEntry value="31">@Strings.CurrentElevation</listEntry>
 <listEntry value="32">@Strings.TotalAscent</listEntry>
+<listEntry value="33">@Strings.HrTSS</listEntry>
 </settingConfig>
 </setting>
 <setting propertyKey="@Properties.TimeDisplay" title="@Strings.TimeDisplayT">

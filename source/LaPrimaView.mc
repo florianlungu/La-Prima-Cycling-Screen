@@ -28,7 +28,7 @@ class LaPrimaView extends Ui.DataField {
 				case 1:	{dc.setColor(0x2AA670,fc);break;}
 				case 2:	{dc.setColor(0xFF7120,fc);break;}
 				case 3:	{dc.setColor(0xFF6FA3,fc);break;}
-				case 4:	{dc.setColor(0x5F6FED,fc);break;}
+				case 4:	{dc.setColor(0xAE5AE9,fc);break;}
 				case 5:	{dc.setColor(0xD62A16,fc);break;}
 				case 6:	{dc.setColor(0xFFC425,fc);break;}
 				case 7:	{dc.setColor(0xFF0080,fc);break;}
@@ -93,6 +93,7 @@ class LaPrimaView extends Ui.DataField {
 		var batPadL=0;
 		var batPadR=0;
 		var batPadT=0;
+		var imgAdj=0;
 
 		if (getBackgroundColor()==0x000000) {
 			fc=0xFFFFFF;
@@ -130,11 +131,12 @@ class LaPrimaView extends Ui.DataField {
 			row3=dc.getHeight()-192;
 			row4=dc.getHeight()-147;
 			row5=dc.getHeight()-109;
-			row6=dc.getHeight()-64;
+			row6=dc.getHeight()-70;
 			row7=dc.getHeight()-26;
-			sidePad=15;
+			sidePad=25;
 			topPad=6;
 			midPad=2;
+			imgAdj=4;
 		} else {
 			row1=dc.getHeight()-248;
 			row2=dc.getHeight()-190;
@@ -148,7 +150,7 @@ class LaPrimaView extends Ui.DataField {
 		var spdLab=(dc.getWidth()+dc.getTextWidthInPixels(fields.Spd,17))/2+3;
 		var pwrLoc=dc.getWidth()/4;
 		if (fields.rideWith==3) {
-			pwrLocLab=pwrLoc+dc.getTextWidthInPixels(fields.aSpd,6)/2+3;
+			pwrLocLab=pwrLoc+dc.getTextWidthInPixels(fields.aSpd.format("%.1f"),6)/2+3;
 		} else {
 			pwrLocLab=pwrLoc+dc.getTextWidthInPixels(fields.Pwr.toString(),6)/2+3;
 		}
@@ -178,7 +180,7 @@ class LaPrimaView extends Ui.DataField {
 		}
 
 		var batImgLoc=dc.getWidth()-42-sidePad;
-		var batImgRow=row7-2;
+		var batImgRow=row7-2+imgAdj;
 
 		dc.setColor(fc,-1);
 		dc.clear();
@@ -189,7 +191,7 @@ class LaPrimaView extends Ui.DataField {
 		textL(dc,spdLab,row1+30+topPad,1,"H");
 
 		if (fields.rideWith==3) {
-			textC(dc,pwrLoc,row2,6,fields.aSpd);
+			textC(dc,pwrLoc,row2,6,fields.aSpd.format("%.1f"));
 			textL(dc,pwrLocLab,row2+midPad,9,fields.SpdLab);
 			textL(dc,pwrLocLab,row2+10+midPad,9,"P");
 			textL(dc,pwrLocLab,row2+20+midPad,9,"H");
@@ -279,7 +281,7 @@ class LaPrimaView extends Ui.DataField {
 
 		textL(dc,sidePad,row7,2,fields.myTime);
 		textL(dc,(dc.getWidth()/2)-11-dc.getTextWidthInPixels(fields.Tempr,1),row7,2,fields.Tempr);
-		drawGPS(fields.myGPS,dc,fc,row7,(dc.getWidth()/2)+21);
+		drawGPS(fields.myGPS,dc,fc,row7+imgAdj,(dc.getWidth()/2)+21);
 		textL(dc,(dc.getWidth()-20-sidePad-(dc.getTextWidthInPixels(fields.myBat,1)/2))+batPadR,row7,1,fields.myBat);
 
 		dc.setColor(fc,-1);

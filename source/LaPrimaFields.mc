@@ -24,7 +24,7 @@ class LaPrimaFields {
 	var avgPwr10=0;
 	var avgPwr30=0;
 	var avgPwrKG=0;
-	var aSpd="0";
+	var aSpd=0;
 	var aPwr10=new[10];
 	var aI10=0;
 	var aPwr3=new[3];
@@ -61,6 +61,8 @@ class LaPrimaFields {
 	var rideWith=0;
 	var hasHR=0;
 	var hasPwr=0;
+	var hrTSS=0;
+	var LTHR=170;
 
 	var oVal1="";
 	var oVal2="";
@@ -287,7 +289,7 @@ class LaPrimaFields {
 		}
 
 		if (info.timerTime!=null && Dist!=0) {
-			aSpd=(Dist/info.timerTime*3600000).format("%.1f");
+			aSpd=(Dist/info.timerTime*3600000);
 		}
 
 		// 3 HR
@@ -308,6 +310,23 @@ class LaPrimaFields {
 			}
 			if (info.averageHeartRate!=null) {
 				HRavg=info.averageHeartRate;
+			}				
+			if (info.timerState==3) {	
+				LTHR=readKeyInt("LTHR",170);
+				if (LTHR<1||LTHR>500) {
+					LTHR=170;
+				}
+				if (curHR<=LTHR*.8) {
+					hrTSS+=.66/60;
+				} else if (curHR>LTHR*.8 && curHR<=LTHR*.89) {
+					hrTSS+=.92/60;
+				} else if (curHR>LTHR*.89 && curHR<=LTHR*.93) {
+					hrTSS+=1.17/60;
+				} else if (curHR>LTHR*.93 && curHR<=LTHR*.99) {
+					hrTSS+=1.33/60;
+				} else if (curHR>LTHR*.99) {
+					hrTSS+=2/60;
+				}
 			}
 		}
 
@@ -366,7 +385,7 @@ class LaPrimaFields {
 				xFld2=20;
 			}
 			if (xFld3<20) {
-				xFld3=23;
+				xFld3=33;
 			}
 			if (xFld4<20) {
 				xFld4=32;
@@ -550,6 +569,9 @@ class LaPrimaFields {
 					} else {
 						oVal1=myElevFmt+" ft";
 					}
+					break;
+				case 33:
+					oVal1=hrTSS.format("%d");
 					break;
 			}
 
