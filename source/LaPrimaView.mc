@@ -134,8 +134,7 @@ class LaPrimaView extends Ui.DataField {
 			row6=dc.getHeight()-70;
 			row7=dc.getHeight()-26;
 			sidePad=25;
-			topPad=6;
-			midPad=2;
+			topPad=7;
 			imgAdj=4;
 		} else {
 			row1=dc.getHeight()-248;
