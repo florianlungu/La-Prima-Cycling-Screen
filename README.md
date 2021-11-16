@@ -84,7 +84,7 @@ Screen color choices – Deep Pink, Garmin Blue, Giro Pink, Lombardia Green, Mar
 
 Functional threshold power (FTP) – Connect IQ does not currently give access to your user power profile so your FTP has to be set in the La Prima Cycling app. The default FTP is set at 250 watts and should be updated. Open the Connect IQ app on your mobile device. From the main screen, click on the Garmin Edge icon ~ Activities & app management ~ Data fields ~ La Prima Cycling Screen ~ Settings and set your functional threshold power (FTP) in watts.
 
-I ride with – If you select "Automatically detect power and heart rate" and the app hasn't recorded any heart rate or power data, the app will switch to "power meter only" or "heart rate monitor only" as needed. For the "Power meter only" screen, the heart rate information is replaced with Normalized Power and work in kJ. For the "Heart rate monitor only" screen, the power information is replaced with Average speed, Average heart rate & Average heart rate as percent, and Calories.
+I ride with – If you select "Automatically detect power and heart rate" and the app hasn't recorded any heart rate or power data, the app will switch to "power meter only" or "heart rate monitor only" as needed. For the "Power meter only" screen, the heart rate information is replaced with Normalized Power and work in kJ. For the "Heart rate monitor only" screen, the power information is replaced with Average speed, Average heart rate & Average heart rate as percent, and hrTSS.
 
 ––––––––––––––––––––––––––––––––––––––––––––––
 
