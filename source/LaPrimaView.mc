@@ -277,21 +277,12 @@ class LaPrimaView extends Ui.DataField {
 		}
 		dc.setColor(fc,-1);
 		textL(dc,dc.getWidth()/2-(dc.getTextWidthInPixels(fields.eTime,4)/2),row6,4,fields.eTime);
-
 		textL(dc,sidePad,row7,2,fields.myTime);
 		textL(dc,(dc.getWidth()/2)-11-dc.getTextWidthInPixels(fields.Tempr,1),row7,2,fields.Tempr);
-		drawGPS(fields.myGPS,dc,fc,row7+imgAdj,(dc.getWidth()/2)+21);
-		textL(dc,(dc.getWidth()-20-sidePad-(dc.getTextWidthInPixels(fields.myBat,1)/2))+batPadR,row7,1,fields.myBat);
-
-		dc.setColor(fc,-1);
-		dc.drawLine(batImgLoc+batPadL,batImgRow+batPadT,batImgLoc+41,batImgRow+batPadT);
-		dc.drawLine(batImgLoc+41,batImgRow+batPadT,batImgLoc+41,batImgRow+16);
-		dc.drawLine(batImgLoc+batPadL,batImgRow+15,batImgLoc+41,batImgRow+15);
-		dc.drawLine(batImgLoc+batPadL,batImgRow+15,batImgLoc+batPadL,batImgRow+12);
-		dc.drawLine(batImgLoc+batPadL,batImgRow+12,batImgLoc-4+batPadL,batImgRow+12);
-		dc.drawLine(batImgLoc-3+batPadL,batImgRow+11,batImgLoc-3+batPadL,batImgRow+4);
-		dc.drawLine(batImgLoc-3+batPadL,batImgRow+4,batImgLoc+1+batPadL,batImgRow+4);
-		dc.drawLine(batImgLoc+batPadL,batImgRow+batPadT,batImgLoc+batPadL,batImgRow+4);
+		drawGPS(fields.myGPS,dc,fc,row7+imgAdj,(dc.getWidth()/2)+21);		
+		var batIc=dc.getWidth()-8-sidePad-dc.getTextWidthInPixels(fields.myBat,1)+batPadR;
+		dc.fillPolygon([[5+batIc,2+row7+2],[2+batIc,10+row7+2],[5+batIc,10+row7+2],[5+batIc,16+row7+2],[8+batIc,8+row7+2],[5+batIc,8+row7+2]]);
+		textL(dc,(dc.getWidth()-10-sidePad-(dc.getTextWidthInPixels(fields.myBat,1)/2))+batPadR,row7,2,fields.myBat);
 		return true;
 	}
 

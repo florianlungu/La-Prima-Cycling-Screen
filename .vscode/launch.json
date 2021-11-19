@@ -9,8 +9,7 @@
             "request": "launch",
             "name": "Run App",
             "prg": "${workspaceFolder}${pathSeparator}bin${pathSeparator}${workspaceFolderBasename}.prg",
-            "prgDebugXml": "${workspaceFolder}${pathSeparator}bin${pathSeparator}${workspaceFolderBasename}.prg.debug.xml",
-            "stopAtLaunch": false,
+            "prgDebugXml": "${workspaceFolder}${pathSeparator}bin${pathSeparator}${workspaceFolderBasename}.prg.debug.xml",            "stopAtLaunch": false,
             "device": "${command:GetTargetDevice}"
         },
         {
