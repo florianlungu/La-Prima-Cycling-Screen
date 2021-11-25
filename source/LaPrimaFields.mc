@@ -80,6 +80,7 @@ class LaPrimaFields {
 	var xFld2=20;
 	var xFld3=1;
 	var xFld4=32;
+	var tTime=0;
 
 	function fmtTime(clock) {
 		var h=clock.hour;
@@ -188,6 +189,11 @@ class LaPrimaFields {
 				}
 			}
 		}
+		if (info.timerTime!=null) {
+			if (info.timerTime!=0) {
+				tTime = info.timerTime;
+			}
+		}
 
 		// 1 spd + dist
 		if (Sys.getDeviceSettings().distanceUnits==Sys.UNIT_METRIC) {
@@ -270,9 +276,9 @@ class LaPrimaFields {
 					myNP=Math.sqrt(Math.sqrt((totalNP/totalNPSize)));
 				}
 				Inten=myNP/FTP;
-				if (info.timerTime!=null) {
+				if (tTime>0) {
 					if (f30Pwr>=30) {
-						cTSS=(((info.timerTime/1000)-30)*myNP*Inten)/(FTP*3600)*100;
+						cTSS=(((tTime/1000)-30)*myNP*Inten)/(FTP*3600)*100;
 						if (cTSS>=0) {
 							TSS=cTSS;
 						}
@@ -288,8 +294,8 @@ class LaPrimaFields {
 
 		}
 
-		if (info.timerTime!=null && Dist!=0) {
-			aSpd=(Dist/info.timerTime*3600000);
+		if (tTime>0 && Dist!=0) {
+			aSpd=(Dist/tTime*3600000);
 		}
 
 		// 3 HR
@@ -343,8 +349,8 @@ class LaPrimaFields {
 				eTime=elapsedTimeFmt(elapsedTime);
 			}
 		} else {
-			if (info.timerTime!=null) {
-				var elapsedTime=info.timerTime/1000;
+			if (tTime>0) {
+				var elapsedTime=tTime/1000;
 				eTime=elapsedTimeFmt(elapsedTime);
 			}
 		}
@@ -481,8 +487,8 @@ class LaPrimaFields {
 					oVal1=avgPwrKG.format("%.1f")+"w / kg";
 					break;
 				case 10:
-					if (info.averagePower!=null && info.timerTime!=null) {
-						work=info.averagePower*info.timerTime/1000/1000;
+					if (info.averagePower!=null && tTime>0) {
+						work=info.averagePower*tTime/1000/1000;
 					} else {
 						work=0;
 					}

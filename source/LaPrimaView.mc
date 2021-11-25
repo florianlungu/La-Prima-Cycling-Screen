@@ -90,10 +90,8 @@ class LaPrimaView extends Ui.DataField {
 		var sidePad=10;
 		var topPad=0;
 		var midPad=0;
-		var batPadL=0;
-		var batPadR=0;
-		var batPadT=0;
 		var imgAdj=0;
+		var lowPad=0;
 
 		if (getBackgroundColor()==0x000000) {
 			fc=0xFFFFFF;
@@ -107,13 +105,13 @@ class LaPrimaView extends Ui.DataField {
 			row3=dc.getHeight()-275;
 			row4=dc.getHeight()-208;
 			row5=dc.getHeight()-165;
-			row6=dc.getHeight()-82;
-			row7=dc.getHeight()-35;
-			sidePad=15;
-			topPad=6;
-			batPadL=-11;
-			batPadR=-5;
-			batPadT=-2;
+			row6=dc.getHeight()-87;
+			row7=dc.getHeight()-36;
+			sidePad=30;
+			topPad=16;
+			midPad=3;
+			imgAdj=8;
+			lowPad=2;
 		} else if (dc.getHeight()==400) {
 			row1=dc.getHeight()-362;
 			row2=dc.getHeight()-268;
@@ -122,11 +120,11 @@ class LaPrimaView extends Ui.DataField {
 			row5=dc.getHeight()-125;
 			row6=dc.getHeight()-69;
 			row7=dc.getHeight()-28;
-			sidePad=15;
+			sidePad=25;
 			topPad=9;
 			midPad=2;
 		} else if (dc.getHeight()==322) {
-			row1=dc.getHeight()-305;
+			row1=dc.getHeight()-303;
 			row2=dc.getHeight()-229;
 			row3=dc.getHeight()-192;
 			row4=dc.getHeight()-147;
@@ -178,78 +176,75 @@ class LaPrimaView extends Ui.DataField {
 			distLocLab=distLoc+dc.getTextWidthInPixels(fields.Dist.format("%.2f"),6)/2+3;
 		}
 
-		var batImgLoc=dc.getWidth()-42-sidePad;
-		var batImgRow=row7-2+imgAdj;
-
 		dc.setColor(fc,-1);
 		dc.clear();
 
-		textL(dc,((dc.getWidth()-dc.getTextWidthInPixels(fields.Spd,17))/2),row1,17,fields.Spd);
-		textL(dc,spdLab,row1+2+topPad,1,fields.SpdLab);
-		textL(dc,spdLab,row1+16+topPad,1,"P");
-		textL(dc,spdLab,row1+30+topPad,1,"H");
+		drawT(dc,((dc.getWidth()-dc.getTextWidthInPixels(fields.Spd,17))/2),row1,17,fields.Spd,2);
+		drawT(dc,spdLab,row1+2+topPad,1,fields.SpdLab,2);
+		drawT(dc,spdLab,row1+16+topPad,1,"P",2);
+		drawT(dc,spdLab,row1+30+topPad,1,"H",2);
 
 		if (fields.rideWith==3) {
-			textC(dc,pwrLoc,row2,6,fields.aSpd.format("%.1f"));
-			textL(dc,pwrLocLab,row2+midPad,9,fields.SpdLab);
-			textL(dc,pwrLocLab,row2+10+midPad,9,"P");
-			textL(dc,pwrLocLab,row2+20+midPad,9,"H");
+			drawT(dc,pwrLoc,row2,6,fields.aSpd.format("%.1f"),1);
+			drawT(dc,pwrLocLab,row2+midPad,9,fields.SpdLab,2);
+			drawT(dc,pwrLocLab,row2+10+midPad,9,"P",2);
+			drawT(dc,pwrLocLab,row2+20+midPad,9,"H",2);
 		} else {
-			textC(dc,pwrLoc,row2,6,fields.Pwr.toString());
-			textL(dc,pwrLocLab,row2+20+midPad,9,"W");
+			drawT(dc,pwrLoc,row2,6,fields.Pwr.toString(),1);
+			drawT(dc,pwrLocLab,row2+20+midPad,9,"W",2);
 		}
 		if (fields.rideWith==2) {
-			textC(dc,hrLoc,row2,6,fields.myNP.format("%d"));
-			textL(dc,hrLocLab,row2+20+midPad,9,"W");
+			drawT(dc,hrLoc,row2,6,fields.myNP.format("%d"),1);
+			drawT(dc,hrLocLab,row2+20+midPad,9,"W",2);
 		} else {
-			textC(dc,hrLoc,row2,6,fields.curHR.toString());
-			textL(dc,hrLocLab,row2+midPad,9,"B");
-			textL(dc,hrLocLab,row2+10+midPad,9,"P");
-			textL(dc,hrLocLab,row2+20+midPad,9,"M");
+			drawT(dc,hrLoc,row2,6,fields.curHR.toString(),1);
+			drawT(dc,hrLocLab,row2+midPad,9,"B",2);
+			drawT(dc,hrLocLab,row2+10+midPad,9,"P",2);
+			drawT(dc,hrLocLab,row2+20+midPad,9,"M",2);
 		}
 
 		if (fields.oFld1b.length()==0) {
-			textC(dc,leftOptOne,row3,2,fields.oFld1a);
+			drawT(dc,leftOptOne,row3,2,fields.oFld1a,1);
 		} else {
-			textL(dc,leftOptTwoA,row3,2,fields.oFld1a);
-			textR(dc,leftOptTwoB,row3,2,fields.oFld1b);
+			drawT(dc,leftOptTwoA,row3,2,fields.oFld1a,2);
+			drawT(dc,leftOptTwoB,row3,2,fields.oFld1b,0);
 		}
 		if (fields.oFld2b.length()==0) {
-			textC(dc,rightOptOne,row3,2,fields.oFld2a);
+			drawT(dc,rightOptOne,row3,2,fields.oFld2a,1);
 		} else {
-			textL(dc,rightOptTwoA,row3,2,fields.oFld2a);
-			textR(dc,rightOptTwoB,row3,2,fields.oFld2b);
+			drawT(dc,rightOptTwoA,row3,2,fields.oFld2a,2);
+			drawT(dc,rightOptTwoB,row3,2,fields.oFld2b,0);
 		}
 		if (fields.oFld3b.length()==0) {
-			textC(dc,leftOptOne,row5,2,fields.oFld3a);
+			drawT(dc,leftOptOne,row5,2,fields.oFld3a,1);
 		} else {
-			textL(dc,leftOptTwoA,row5,2,fields.oFld3a);
-			textR(dc,leftOptTwoB,row5,2,fields.oFld3b);
+			drawT(dc,leftOptTwoA,row5,2,fields.oFld3a,2);
+			drawT(dc,leftOptTwoB,row5,2,fields.oFld3b,0);
 		}
 		if (fields.oFld4b.length()==0) {
-			textC(dc,rightOptOne,row5,2,fields.oFld4a);
+			drawT(dc,rightOptOne,row5,2,fields.oFld4a,1);
 		} else {
-			textL(dc,rightOptTwoA,row5,2,fields.oFld4a);
-			textR(dc,rightOptTwoB,row5,2,fields.oFld4b);
+			drawT(dc,rightOptTwoA,row5,2,fields.oFld4a,2);
+			drawT(dc,rightOptTwoB,row5,2,fields.oFld4b,0);
 		}
 
-		textC(dc,cadLoc,row4,6,fields.Cad.toString());
-		textL(dc,cadLocLab,row4+midPad,9,"R");
-		textL(dc,cadLocLab,row4+10+midPad,9,"P");
-		textL(dc,cadLocLab,row4+20+midPad,9,"M");
+		drawT(dc,cadLoc,row4,6,fields.Cad.toString(),1);
+		drawT(dc,cadLocLab,row4+midPad,9,"R",2);
+		drawT(dc,cadLocLab,row4+10+midPad,9,"P",2);
+		drawT(dc,cadLocLab,row4+20+midPad,9,"M",2);
 
 		if (fields.Dist>=99.95) {
-			textC(dc,distLoc,row4+4,5,fields.Dist.format("%.1f"));
+			drawT(dc,distLoc,row4+4,5,fields.Dist.format("%.1f"),1);
 		} else if (fields.Dist>=9.99) {
-			textC(dc,distLoc,row4,6,fields.Dist.format("%.1f"));
+			drawT(dc,distLoc,row4,6,fields.Dist.format("%.1f"),1);
 		} else {
-			textC(dc,distLoc,row4,6,fields.Dist.format("%.2f"));
+			drawT(dc,distLoc,row4,6,fields.Dist.format("%.2f"),1);
 		}
-		textL(dc,distLocLab,row4+10+midPad,9,fields.DistLab1);
+		drawT(dc,distLocLab,row4+10+midPad,9,fields.DistLab1,2);
 		if (Sys.getDeviceSettings().distanceUnits==Sys.UNIT_METRIC) {
-			textL(dc,distLocLab,row4+20+midPad,9,fields.DistLab2);
+			drawT(dc,distLocLab,row4+20+midPad,9,fields.DistLab2,2);
 		} else {
-			textL(dc,distLocLab+2,row4+20+midPad,9,fields.DistLab2);
+			drawT(dc,distLocLab+2,row4+20+midPad,9,fields.DistLab2,2);
 		}
 
 		drawLayout(dc,fc);
@@ -275,14 +270,16 @@ class LaPrimaView extends Ui.DataField {
 					break;
 			}
 		}
+
 		dc.setColor(fc,-1);
-		textL(dc,dc.getWidth()/2-(dc.getTextWidthInPixels(fields.eTime,4)/2),row6,4,fields.eTime);
-		textL(dc,sidePad,row7,2,fields.myTime);
-		textL(dc,(dc.getWidth()/2)-11-dc.getTextWidthInPixels(fields.Tempr,1),row7,2,fields.Tempr);
+		drawT(dc,dc.getWidth()/2-(dc.getTextWidthInPixels(fields.eTime,4)/2),row6,4,fields.eTime,2);
+		drawT(dc,sidePad,row7,2,fields.myTime,2);
+		drawT(dc,(dc.getWidth()/2)-11-dc.getTextWidthInPixels(fields.Tempr,1),row7,2,fields.Tempr,2);
 		drawGPS(fields.myGPS,dc,fc,row7+imgAdj,(dc.getWidth()/2)+21);		
-		var batIc=dc.getWidth()-8-sidePad-dc.getTextWidthInPixels(fields.myBat,1)+batPadR;
-		dc.fillPolygon([[5+batIc,2+row7+2],[2+batIc,10+row7+2],[5+batIc,10+row7+2],[5+batIc,16+row7+2],[8+batIc,8+row7+2],[5+batIc,8+row7+2]]);
-		textL(dc,(dc.getWidth()-10-sidePad-(dc.getTextWidthInPixels(fields.myBat,1)/2))+batPadR,row7,2,fields.myBat);
+		drawT(dc,(dc.getWidth()-sidePad),row7,2,fields.myBat,0);
+		var batIc=dc.getWidth()-15-sidePad-dc.getTextWidthInPixels(fields.myBat,1)-(lowPad*2);
+		row7+=lowPad+2;
+		dc.fillPolygon([[5+batIc,2+row7],[2+batIc,10+row7],[5+batIc,10+row7],[5+batIc,16+row7],[8+batIc,8+row7],[5+batIc,8+row7]]);
 		return true;
 	}
 
@@ -291,21 +288,9 @@ class LaPrimaView extends Ui.DataField {
 		return 1;
 	}
 
-	function textL(dc,x,y,font,s) {
-		if (s!=null) {
-			dc.drawText(x,y,font,s,Graphics.TEXT_JUSTIFY_LEFT);
-		}
-	}
-
-	function textC(dc,x,y,font,s) {
-		if (s!=null) {
-			dc.drawText(x,y,font,s,Graphics.TEXT_JUSTIFY_CENTER);
-		}
-	}
-
-	function textR(dc,x,y,font,s) {
-		if (s!=null) {
-			dc.drawText(x,y,font,s,Graphics.TEXT_JUSTIFY_RIGHT);
+	function drawT(dc,x,y,font,s,d) {		
+		if (s!=null && s instanceof String && x instanceof Number && y instanceof Number) {
+			dc.drawText(x,y,font,s,d);
 		}
 	}
 }
